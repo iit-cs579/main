@@ -16,7 +16,7 @@
 | 10/8  | **Midterm**                      |                                                        |           |          |
 | 10/13 | **No Class (Fall Break)**        |                                                        |           |[L13](l13)|
 | 10/15 |                                  |                                                        |           |[L14](l14)|
-| 10/20 |                                  |                                                        |           |[L15](l15)|
+| 10/20 |                                  |                                                        | [Project Goals](ProjectGoals)          |[L15](l15)|
 | 10/22 |                                  |                                                        |           |[L16](l16)|
 | 10/27 |                                  |                                                        |           |[L17](l17)|
 | 10/29 |                                  |                                                        | [A4](A4)  |[L18](l18)|
@@ -29,4 +29,4 @@
 | 11/24 | **Final Exam**                   |                                                        |           |          |
 | 11/26 | **No Class (Thanksgiving)**      |                                                        |           |          |
 | 12/1  | *Presentations*                  |                                                        |           |          |
-| 12/3  | *Presentations*                  |                                                        |           |          |
+| 12/3  | *Presentations*                  |                                                        | [Project](Project)          |          |
