@@ -4,7 +4,7 @@
 | 8/27  | Data Collection            |  [R01](read/r-01.pdf)         |               |[L02](l02)|
 | 9/01  | **No Class (Labor Day)**   |                               |               |          |
 | 9/03  | Representing Graphs        |  [EK02](read/ek-02.pdf)       |               |[L03](l03)|
-| 9/08  | Small Worlds               |  [EK02](read/ek-20.pdf)       | [A1](asg/a1)  |[L04](l04)|
+| 9/08  | Small Worlds               |  [EK20](read/ek-20.pdf)       | [A1](asg/a1)  |[L04](l04)|
 | 9/10  | Community Detection I      |                               |               |[L05](l05)|
 | 9/15  | Community Detection II     |                               |               |[L06](l06)|
 | 9/17  | Link Prediction            |                               |               |[L07](l07)|
