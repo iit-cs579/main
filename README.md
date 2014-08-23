@@ -22,14 +22,32 @@ See the [Schedule](Schedule.md) for a detailed list of readings and due dates.
 - [Networks and Markets: Reasoning about a highly connected world](http://www.cs.cornell.edu/home/kleinber/networks-book/), David Easley and Jon Kleinberg (`ek`)
 - [Mining of Massive Datasets](http://www.mmds.org/), Jure Leskovec, Anand Rajaraman, Jeff Ullman (`lru`)
 
-### Objectives
+**Grading:**
+
+400 points - [Assignments](asg) (4 @ 100 points each)  
+100 points - Midterm  
+100 points - Final  
+200 points - Project  
+50 points - Quizzes / Class participation  
+**700 total points**
+
+| **Percent** | **Grade** |
+|-------------|-----------|
+| 100-90      | A         |
+| 89-80       | B         |
+| 79-70       | C         |
+| 69-60       | D         |
+| < 60        | E         |
+
+
+**Objectives:**
 
 1.	Provide understanding of the theoretical foundations of graph analysis, including clustering, search, homophily, and diffusion.  
 2.	Provide understanding of the theoretical foundations of text analysis, including classification, clustering, and information extraction in the context of network and text media analysis.  
 3.	Practice design and implementation of a system that applies the principles of graph and text analysis to a problem in online social networks  
 
 
-### Contribution to general objectives
+**Contribution to general objectives:**
 
 a. An ability to apply knowledge of computing and mathematics appropriate to the discipline.  
 c. An ability to design, implement and evaluate a computer-based system, process, component, or program to meet desired needs.  
