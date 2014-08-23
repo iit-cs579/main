@@ -28,8 +28,7 @@ See the [Schedule](Schedule.md) for a detailed list of readings and due dates.
 100 points - Midterm  
 100 points - Final  
 200 points - Project  
- 50 points - Quizzes / Class participation  
-**650 total points**
+**600 total points**
 
 | **Percent** | **Grade** |
 |-------------|-----------|
