@@ -10,8 +10,8 @@
 | 9/17  | Link Prediction            |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
 | 9/22  | Cascades I                 |  [ek16](read/ek-16.pdf)       | [A2](asg/a2)  |[L08](lec/l08)|
 | 9/24  | Cascades II                |  [ek19](read/ek-19.pdf)       |               |[L09](lec/l09)|
-| 9/29  | Sentiment Analysis I       |                               |               |[L10](lec/l10)|
-| 10/1  | Sentiment Analysis II      |                               |               |[L11](lec/l11)|
+| 9/29  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
+| 10/1  | Sentiment Analysis II      |  [tgd2003](read/tgd2003.pdf)  |               |[L11](lec/l11)|
 | 10/6  | Demographic Inference I    |                               | [A3](asg/a3)  |[L12](lec/l12)|
 | 10/8  | **Midterm**                |                               |               |          |
 | 10/13 | **No Class (Fall Break)**  |                               |               |          |
