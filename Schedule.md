@@ -1,15 +1,15 @@
 | Date  | Topic                      | Readings                      | Due           | Lecture  |
 | ----- |----------------------------|-------------------------------|---------------|----------|
-| 8/25  | Introductions              |  [EK01](read/ek-01.pdf)       |               |[L01](l01)|
-| 8/27  | Data Collection            |  [R01](read/r-01.pdf)         |               |[L02](l02)|
+| 8/25  | Introductions              |  [ek01](read/ek-01.pdf)       |               |[L01](l01)|
+| 8/27  | Data Collection            |  [r01](read/r-01.pdf)         |               |[L02](l02)|
 | 9/01  | **No Class (Labor Day)**   |                               |               |          |
-| 9/03  | Representing Graphs        |  [EK02](read/ek-02.pdf)       |               |[L03](l03)|
-| 9/08  | Small Worlds               |  [EK20](read/ek-20.pdf)       | [A1](asg/a1)  |[L04](l04)|
-| 9/10  | Community Detection I      |  [U10.2-3](read/lru-10.pdf)   |               |[L05](l05)|
-| 9/15  | Community Detection II     |  [U10.4](read/lru-10.pdf)     |               |[L06](l06)|
-| 9/17  | Link Prediction            |  [LNK2004](read/lnk2004.pdf)  |               |[L07](l07)|
-| 9/22  | Cascades I                 |  [EK16](read/ek-16.pdf)       | [A2](asg/a2)  |[L08](l08)|
-| 9/24  | Cascades II                |  [EK19](read/ek-19.pdf)       |               |[L09](l09)|
+| 9/03  | Representing Graphs        |  [ek02](read/ek-02.pdf)       |               |[L03](l03)|
+| 9/08  | Small Worlds               |  [ek20](read/ek-20.pdf)       | [A1](asg/a1)  |[L04](l04)|
+| 9/10  | Community Detection I      |  [lru10.2-3](read/lru-10.pdf) |               |[L05](l05)|
+| 9/15  | Community Detection II     |  [lru10.4](read/lru-10.pdf)   |               |[L06](l06)|
+| 9/17  | Link Prediction            |  [lnk2004](read/lnk2004.pdf)  |               |[L07](l07)|
+| 9/22  | Cascades I                 |  [ek16](read/ek-16.pdf)       | [A2](asg/a2)  |[L08](l08)|
+| 9/24  | Cascades II                |  [ek19](read/ek-19.pdf)       |               |[L09](l09)|
 | 9/29  | Sentiment Analysis I       |                               |               |[L10](l10)|
 | 10/1  | Sentiment Analysis II      |                               |               |[L11](l11)|
 | 10/6  | Demographic Inference I    |                               | [A3](asg/a3)  |[L12](l12)|
