@@ -7,3 +7,5 @@
 ### Readings
 - [Networks and Markets: Reasoning about a highly connected world](http://www.cs.cornell.edu/home/kleinber/networks-book/), David Easley and Jon Kleinberg (`ek`)
 - [Mining of Massive Datasets](http://www.mmds.org/), Jure Leskovec, Anand Rajaraman, Jeff Ullman (`lru`)
+
+See the [Schedule](Schedule.md) for a detailed list of readings and due dates.
