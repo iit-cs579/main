@@ -1,7 +1,7 @@
 | Date  | Topic                      | Readings                      | Due           | Lecture  |
 | ----- |----------------------------|-------------------------------|---------------|----------|
-| 8/25  | Introductions              |  [ek01](read/ek-01.pdf)       |               |[L01](l01)|
-| 8/27  | Data Collection            |  [r01](read/r-01.pdf)         |               |[L02](l02)|
+| 8/25  | Introductions              |  [ek01](read/ek-01.pdf)       |               |[L01](lec/l01)|
+| 8/27  | Data Collection            |  [r01](read/r-01.pdf)         |               |[L02](lec/l02)|
 | 9/01  | **No Class (Labor Day)**   |                               |               |          |
 | 9/03  | Representing Graphs        |  [ek02](read/ek-02.pdf)       |               |[L03](l03)|
 | 9/08  | Small Worlds               |  [ek20](read/ek-20.pdf)       | [A1](asg/a1)  |[L04](l04)|
