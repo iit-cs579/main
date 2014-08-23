@@ -24,12 +24,12 @@ See the [Schedule](Schedule.md) for a detailed list of readings and due dates.
 
 **Grading:**
 
-400 points - [Assignments](asg) (4 @ 100 points each)  
+200 points - [Assignments](asg) (4 @ 50 points each)  
 100 points - Midterm  
 100 points - Final  
 200 points - Project  
-50 points - Quizzes / Class participation  
-**700 total points**
+ 50 points - Quizzes / Class participation  
+**650 total points**
 
 | **Percent** | **Grade** |
 |-------------|-----------|
