@@ -2,17 +2,25 @@
 *[Illinois Institute of Technology](http://iit.edu)*  
 *[Dr. Aron Culotta](http://cs.iit.edu/~culotta)*
 
-...under construction...
-
-### Description
-This course will explore the latest algorithms for analyzing online social networks, considering both their structure and content. Fundamentals of social graph theory will be covered, including distance, search, influence, community discovery, diffusion, and graph dynamics. Fundamentals of text analysis will also be covered, with an emphasis on the type of text used in online social networks and common applications. Topics include sentiment classification, information extraction, clustering, and topic modeling. Emphasis will be placed on the application of this technology to areas such as public health, crisis response, politics, and marketing. **Prerequisite: 430**
-
-
-### Readings
-- [Networks and Markets: Reasoning about a highly connected world](http://www.cs.cornell.edu/home/kleinber/networks-book/), David Easley and Jon Kleinberg (`ek`)
-- [Mining of Massive Datasets](http://www.mmds.org/), Jure Leskovec, Anand Rajaraman, Jeff Ullman (`lru`)
+**Course:** CS 579: Online Social Network Analysis  
+**Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
+**Meetings:** 1:50 - 3:05 pm M/W Stuart 238  
+**E-mail:** culotta at cs.iit.edu  
+**Phone:** 312-567-5261  
+**Office Hours:** M/W 11:00 a.m. - 12:00 p.m.  
+**Office:** Stuart Hall 229B  
+**TA:** TBD  
 
 See the [Schedule](Schedule.md) for a detailed list of readings and due dates.
+
+
+**Description:** This course will explore the latest algorithms for analyzing online social networks, considering both their structure and content. Fundamentals of social graph theory will be covered, including distance, search, influence, community discovery, diffusion, and graph dynamics. Fundamentals of text analysis will also be covered, with an emphasis on the type of text used in online social networks and common applications. Topics include sentiment classification, information extraction, clustering, and topic modeling. Emphasis will be placed on the application of this technology to areas such as public health, crisis response, politics, and marketing. **Prerequisite: 430**
+
+
+**Readings:**  
+
+- [Networks and Markets: Reasoning about a highly connected world](http://www.cs.cornell.edu/home/kleinber/networks-book/), David Easley and Jon Kleinberg (`ek`)
+- [Mining of Massive Datasets](http://www.mmds.org/), Jure Leskovec, Anand Rajaraman, Jeff Ullman (`lru`)
 
 ### Objectives
 
