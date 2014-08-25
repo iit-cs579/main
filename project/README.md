@@ -16,14 +16,14 @@ The 200 points is broken down into:
   -  An overview of the method
   -  Specifics about the data you intend to use (how many, from where, with what attributes?)
   -  Description of how your project is similar to and different from related work
--  A timeline for the remaining work. For teams, indicate who will do what.
-  -  40 points - **Presentation**: Is the presentation clear, well-organized, and thorough?
-  -  50 points - **Code**: Can I reproduce your results by running your code? Is the code well-written, debugged, and documented?
-  -  50 points - **Report**: Follow the similar format as the papers we read for class. Your report should be 5-6 pages, including all references and figures. Are the main algorithms, hypotheses, and assumptions clearly stated? Are the comparisons with related work sound? Sections include:
-- Introduction: What did you do and '''why'''? What are the research questions of your analysis? What is your hypothesis?
-- Data: What data did you collect and how?
-- Methods: What did you do with the data, precisely?
-- Experiments: These should answer your research questions and test your hypotheses.
-- Related work: How have others approached this problem? What makes your approach different?
-- Conclusions and Future Work: What should we have learned from reading your paper? What's left to do?
+  -  A timeline for the remaining work. For teams, indicate who will do what.
+-  40 points - **Presentation**: Is the presentation clear, well-organized, and thorough?
+-  50 points - **Code**: Can I reproduce your results by running your code? Is the code well-written, debugged, and documented?
+-  50 points - **Report**: Follow the similar format as the papers we read for class. Your report should be 5-6 pages, including all references and figures. Are the main algorithms, hypotheses, and assumptions clearly stated? Are the comparisons with related work sound? Sections include:
+  - *Introduction*: What did you do and **why**? What are the research questions of your analysis? What is your hypothesis?
+  - *Data*: What data did you collect and how?
+  - *Methods*: What did you do with the data, precisely?
+  - *Experiments*: These should answer your research questions and test your hypotheses.
+  - *Related work*: How have others approached this problem? What makes your approach different?
+  - *Conclusions and Future Work*: What should we have learned from reading your paper? What's left to do?
 - 50 points - **Scientific rigor**: Are your claims supported by the experimental results? Have you attempted to rule out all other reasonable competing hypotheses? Are the experiments soundly developed and executed?
