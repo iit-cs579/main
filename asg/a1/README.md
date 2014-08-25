@@ -47,4 +47,5 @@
   
   # Data Collection
   
-  Complete the data collection assignment, following [a1.ipynb](http://nbviewer.ipython.org/github/iit-cs579/main/blob/master/asg/a1/a1.ipynb) . (The code is here [a1.py](a1.py).)
+1. Complete the data collection assignment, following [a1.ipynb](http://nbviewer.ipython.org/github/iit-cs579/main/blob/master/asg/a1/a1.ipynb) . (The code is here [a1.py](a1.py).)
+2. Push your all your code and supporting files (.png, .cfg, .txt) to your **private** GitHub repo.
