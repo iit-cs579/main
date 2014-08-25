@@ -7,6 +7,7 @@ Teams of students will complete a final project that applies some ideas from the
 - Add a descriptive README.md at the root of your project.
 - You may use off-the-shelf analysis tools in your work; no need to start from scratch.
 - [Here](http://curtis.ml.cmu.edu/w/courses/index.php/Social_Media_Analysis_10-802_in_Fall_2012#Sample_Projects) are some projects from a CMU course that are good examples to help you come up with ideas.
+- You **must** collect your own data for this project. You can get ideas of the types of data [here](https://github.com/aronwc/mlsm/wiki/Data).
 
 The 200 points is broken down into:
 - 10 points - **Proposal**: Is the proposal presentation clear, well-organized, and thorough?
