@@ -47,4 +47,4 @@
   
   # Data Collection
   
-  **[in progress]**
+  Complete the data collection assignment, following [a1.ipynb](http://nbviewer.ipython.org/github/iit-cs579/main/blob/master/asg/a1/a1.ipynb) . (The code is here [a1.py](a1.py).)
