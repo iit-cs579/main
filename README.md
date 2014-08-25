@@ -53,3 +53,17 @@ f. An ability to communicate effectively with a range of audiences.
 i. An ability to use current techniques, skills, and tools necessary for computing practices.  
 j. An ability to apply mathematical foundations, algorithmic principles, and computer science theory in the modeling and design of computer-based systems in a way that demonstrates comprehension of the tradeoffs involved in design choices.  
 k. An ability to apply design and development principles in the construction of software systems of varying complexity  
+
+**Similar Courses:**
+
+1.	[Social Media Analysis 10-802, Carnegie Mellon](http://curtis.ml.cmu.edu/w/courses/index.php/Social_Media_Analysis_10-802_in_Fall_2012)
+2.	[Social Media Analysis, CSCI 599, ISI](http://www.isi.edu/~lerman/courses/csci599_2012/csci599_Syllabus.pdf)
+3.	[Social Networking: Technology and Society, INFM 289I, University of Maryland](http://www.cs.umd.edu/~golbeck/INFM289I/syllabus.shtml)
+4.	[Networks, CS 2850, Cornell](https://courses.cit.cornell.edu/info2040_2013fa/)
+5.	[Social and Information Network Analysis, CS224W, Stanford](http://www.stanford.edu/class/cs224w)
+6.	[The Structure of Information Networks, CS 6850, Cornell](http://www.cs.cornell.edu/Courses/cs6850/2008fa/)
+7.	[Models of Social Information Processing, SI301, Michigan](http://www-personal.umich.edu/~ladamic/courses/networks/si301w11/index.html)
+8.	[The Structure and Dynamics of Networked Information, CS673, USC](http://www-bcf.usc.edu/~dkempe/CS673/index.html)
+9.	[Online Social Networks and Media, CS14, University of Ioannina](http://www.cs.uoi.gr/~tsap/teaching/cs-l14/)
+10.	[Information Networks, Stanford](http://www.stanford.edu/class/msande337/)
+11.	[Social and Technological Network Analysis, Cambridge](http://www.cl.cam.ac.uk/teaching/1213/L109/materials.html)
