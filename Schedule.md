@@ -17,7 +17,7 @@
 | 10/13 | **No Class (Fall Break)**  |                               |               |          |
 | 10/15 | Demographic Inference II   |                               |               |[L13](lec/l13)|
 | 10/20 | **Proposals**              |                               |               |          |
-| 10/22 | **Proposals**              |                               | [P1](P1)      |          |
+| 10/22 | **Proposals**              |                               | [P1](project) |          |
 | 10/27 | Text Regression I          |                               |               |[L14](lec/l14)|
 | 10/29 | Text Regression II         |                               |               |[L15](lec/l15)|
 | 11/3  | Text Clustering            |                               | [A4](asg/a4)  |[L16](lec/l16)|
@@ -29,4 +29,4 @@
 | 11/24 | **Final Exam**             |                               |               |          |
 | 11/26 | **No Class (Thanksgiving)**|                               |               |          |
 | 12/1  | *Presentations*            |                               |               |          |
-| 12/3  | *Presentations*            |                               | [P2](P2)      |          |
+| 12/3  | *Presentations*            |                               | [P2](project) |          |
