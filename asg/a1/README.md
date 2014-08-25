@@ -28,7 +28,7 @@
 6. Setup Git: <https://help.github.com/articles/set-up-git>
   - Mac/Linux only: Generate SSH keys <https://help.github.com/articles/generating-ssh-keys>
 
-7. Clone your private class repository **[I'm still waiting on the accounts to be created, so this may not work yet (8/24/14)]**
+7. Clone your private class repository **[This won't work until I've received all your survey responses, likely by 8/25/14.]**
    ```
    git clone https://github.com/iit-cs579/[iit-username].git
    ```
