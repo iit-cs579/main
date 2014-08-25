@@ -38,18 +38,19 @@
 | < 60        | E         |
 
 
-**Objectives:**
-
-1.	Provide understanding of the theoretical foundations of graph analysis, including clustering, search, homophily, and diffusion.  
-2.	Provide understanding of the theoretical foundations of text analysis, including classification, clustering, and information extraction in the context of network and text media analysis.  
-3.	Practice design and implementation of a system that applies the principles of graph and text analysis to a problem in online social networks  
-
 **Academic Integrity**
 
 - Please read IIT's [Academic Honesty Policy](http://www.iit.edu/student_affairs/handbook/information_and_regulations/code_of_academic_honesty.shtml)
 - All work you turn in must be done by you alone, except for the group project.
 - All violations will be reported to `academichonesty@iit.edu`.
 - The first violation will result in a failing grade for that assignment/test. The second will result in a failing grade for the course.
+- 
+**Objectives:**
+
+1.	Provide understanding of the theoretical foundations of graph analysis, including clustering, search, homophily, and diffusion.  
+2.	Provide understanding of the theoretical foundations of text analysis, including classification, clustering, and information extraction in the context of network and text media analysis.  
+3.	Practice design and implementation of a system that applies the principles of graph and text analysis to a problem in online social networks  
+
 
 **Contribution to general objectives:**
 
