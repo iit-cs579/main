@@ -24,10 +24,10 @@
   - Mac/Linux only: Generate SSH keys <https://help.github.com/articles/generating-ssh-keys>
 
 7. Clone your private class repository **[I'm still waiting on the accounts to be created, so this may not work yet (8/24/14)]**
-```
-git clone https://github.com/iit-cs579/[iit-username].git
-```
-E.g., for me this would be:
+   ```
+   git clone https://github.com/iit-cs579/[iit-username].git
+   ```
+  E.g., for me this would be:
   ```
    git clone https://github.com/iit-cs579/aculotta.git
   ```
