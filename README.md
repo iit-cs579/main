@@ -44,7 +44,7 @@
 - All work you turn in must be done by you alone, except for the group project.
 - All violations will be reported to `academichonesty@iit.edu`.
 - The first violation will result in a failing grade for that assignment/test. The second will result in a failing grade for the course.
-- 
+
 **Objectives:**
 
 1.	Provide understanding of the theoretical foundations of graph analysis, including clustering, search, homophily, and diffusion.  
