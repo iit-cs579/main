@@ -32,3 +32,4 @@ All assignments should be submitted to your private GitHub repository. To submit
   cd [your_iit_id]/asg/a1
   [...run any relevant scripts/tests]
   ```
+6. Question about the assignment? You can [create an issue](https://github.com/iit-cs579/main/issues), which we will use like a message board. Either myself or a fellow student can answer.
