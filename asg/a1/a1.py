@@ -7,8 +7,7 @@
 # In this assignment, I've given you a list of Twitter accounts of 10 U.S. Senators. 
 # The goal is to use the Twitter API to construct the follower network of these accounts. We will then use the [networkx](http://networkx.github.io/) library to plot these links, as well as print some statistics of the resulting graph.
 # 
-# 1. Follow the instructions in [Readme.md](Readme.md) to configure your system.
-# 2. Copy the files from this directory into the `asg/a1` folder of your private repository.
+# 1. Copy the files from this directory into the `asg/a1` folder of your private repository.
 # 2. Create an account on [twitter.com](http://twitter.com).
 # 3. Generate authentication tokens by following the instructions [here](https://dev.twitter.com/docs/auth/tokens-devtwittercom).
 # 4. Add your tokens to the `twitter.cfg` file. (API Key == Consumer Key)
