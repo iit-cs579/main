@@ -62,7 +62,7 @@
 # 
 # $\frac{N(N-1)}{2}$
 
-# In[40]:
+# In[14]:
 
 import matplotlib.pyplot as plt
 
@@ -86,7 +86,7 @@ plt.plot(sizes, [s*(s-1)/2.0 for s in sizes])
 # - $P(k) = \frac{N_k}{N}$
 # 
 
-# In[41]:
+# In[15]:
 
 # See Karate Club network: http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm#zachary
 # First, we print the degree for each of the 34 nodes.
@@ -97,7 +97,7 @@ for v in G:
     print('%s\t%s' % (v, G.degree(v)))
 
 
-# In[42]:
+# In[16]:
 
 # Now, let's plot the bar graph for the distribution of P(k)
 from collections import Counter
@@ -107,13 +107,17 @@ for v in G:
 p_k = [(degree, 1. * count / len(G.nodes())) for degree, count in degree_counts.iteritems()]
 p_k = sorted(p_k)  # To sort in descending order of P(k): key=lambda x: x[1], reverse=True)
 print p_k
-
 ks = [x[0] for x in p_k]  # Get the first element of each tuple (the degree)
-y_pos = range(len(ks))
+# Plot the bar chart.
 plt.bar(y_pos, [x[1] for x in p_k], align='center', alpha=0.4)
+# Label the x ticks.
+x_pos = range(len(ks))
+plt.xticks(x_pos, ks)
+# Label axes and title.
 plt.xlabel('$k$')
 plt.ylabel('$P(k)$')
-plt.title("Degree Distribution for Karate Network")
+mean = 1. * sum([G.degree(v) for v in G]) / len(G.nodes())
+plt.title("Degree Distribution for Karate Network (mean=%.2f)" % mean)
 
 
 # A [Long Tail](http://en.wikipedia.org/wiki/Long_tail)
