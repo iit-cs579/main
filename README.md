@@ -45,6 +45,13 @@
 - All violations will be reported to `academichonesty@iit.edu`.
 - The first violation will result in a failing grade for that assignment/test. The second will result in a failing grade for the course.
 
+
+**Late Submission Policy**
+
+- Late assignments will **not** be accepted, unless:
+  - There is an unavoidable medical, family, or other emergency.
+  - You notify me **prior** to the due date.
+
 **Objectives:**
 
 1.	Provide understanding of the theoretical foundations of graph analysis, including clustering, search, homophily, and diffusion.  
