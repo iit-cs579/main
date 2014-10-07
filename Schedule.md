@@ -12,7 +12,7 @@
 | 9/24  | Cascades II                |  [ek19](read/ek-19.pdf)       |               |[L09](lec/l09)|
 | 9/29  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
 | 10/1  | Sentiment Analysis II      |  [tgd2003](read/tgd2003.pdf)  |               |[L11](lec/l11)|
-| 10/6  | Demographic Inference I    |                               | [A3](asg/a3)  |[L12](lec/l12)|
+| 10/6  | Demographic Inference I    |                               |               |[L12](lec/l12)|
 | 10/8  | **Midterm**                |                               |               |          |
 | 10/13 | **No Class (Fall Break)**  |                               |               |          |
 | 10/15 | Demographic Inference II   |                               |               |[L13](lec/l13)|
@@ -20,9 +20,9 @@
 | 10/22 | **Proposals**              |                               | [P1](project) |          |
 | 10/27 | Text Regression I          |                               |               |[L14](lec/l14)|
 | 10/29 | Text Regression II         |                               |               |[L15](lec/l15)|
-| 11/3  | Text Clustering            |                               | [A4](asg/a4)  |[L16](lec/l16)|
+| 11/3  | Text Clustering            |                               |               |[L16](lec/l16)|
 | 11/5  | Topic Modeling             |                               |               |[L17](lec/l17)|
-| 11/10 | Recommendation Systems     |                               |               |[L18](lec/l18)|
+| 11/10 | Recommendation Systems     |                               |[A3](asg/a3)   |[L18](lec/l18)|
 | 11/12 | Social Search              |                               |               |[L19](lec/l19)|
 | 11/17 | Social Search              |                               |               |[L20](lec/l20)|
 | 11/19 | Privacy/Ethics             |                               |               |[L21](lec/l21)|
