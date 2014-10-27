@@ -18,8 +18,8 @@
 | 10/15 | Demographic Inference II   |                               |               |[L13](lec/l13)|
 | 10/20 | **Proposals**              |                               |               |          |
 | 10/22 | **Proposals**              |                               | [P1](project) |          |
-| 10/27 | Text Regression I          |                               |               |[L14](lec/l14)|
-| 10/29 | Text Regression II         |                               |               |[L15](lec/l15)|
+| 10/27 | Demographic Inference III  |                               |               |[L14](lec/l14)|
+| 10/29 | Text Regression I          |                               |               |[L15](lec/l15)|
 | 11/3  | Text Clustering            |                               |               |[L16](lec/l16)|
 | 11/5  | Topic Modeling             |                               |               |[L17](lec/l17)|
 | 11/10 | Recommendation Systems     |                               |[A3](asg/a3)   |[L18](lec/l18)|
