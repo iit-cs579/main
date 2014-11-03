@@ -18,8 +18,8 @@
 | 10/15 | Demographic Inference II   |                               |               |[L13](lec/l13)|
 | 10/20 | **Proposals**              |                               |               |          |
 | 10/22 | **Proposals**              |                               | [P1](project) |          |
-| 10/27 | Demographic Inference III  |                               |               |[L14](lec/l14)|
-| 10/29 | Demographic Inference IV   |                               |               |[L15](lec/l15)|
+| 10/27 | Demographic Inference III  | [notes](/lec/l14/gd.pdf)     |                |[L14](lec/l14)|
+| 10/29 | Demographic Inference IV   | [notes](/lec/l14/logistic.pdf) |              |[L15](lec/l15)|
 | 11/3  | Text Regression I          |                               |               |[L16](lec/l16)|
 | 11/5  | Text Regression II         |                               |               |[L17](lec/l17)|
 | 11/10 | Recommendation Systems     |                               |               |[L18](lec/l18)|
