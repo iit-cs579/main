@@ -3,7 +3,7 @@
 Teams of students will complete a final project that applies some ideas from the class. Teams can consist of at most three students. Here are some guidelines:
 
 - Your project shall be hosted on github. If you are on a team, pick one member's account.
-- Add a link to your project's github repository [here](https://github.com/iit-cs579/main/blob/master/project/ProjectLinks.md)
+- Add a link to your project's github repository [here](https://github.com/iit-cs579/main/wiki/Project-Teams)
 - Add a descriptive README.md at the root of your project.
 - You may use off-the-shelf analysis tools in your work; no need to start from scratch.
 - [Here](http://curtis.ml.cmu.edu/w/courses/index.php/Social_Media_Analysis_10-802_in_Fall_2012#Sample_Projects) are some projects from a CMU course that are good examples to help you come up with ideas.
