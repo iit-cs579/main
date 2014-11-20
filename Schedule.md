@@ -25,7 +25,7 @@
 | 11/10 | Recommendation Systems I  |  [mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)                             |               |[L18](http://mmds.org/mmds/v2.1/ch09-recsys1.pdf)|
 | 11/12 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
 | 11/17 | Privacy/Ethics             |                               |               | |
-| 11/19 | Review                     |                               |               | |
+| 11/19 | Review                     |                               |               | [L21](lec/l21)|
 | 11/24 | **Final Exam**             |                               |               |          |
 | 11/26 | **No Class (Thanksgiving)**|                               |               |          |
 | 12/1  | *Presentations*            |                               |               |          |
