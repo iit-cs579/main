@@ -1,1 +1,3 @@
-View the [Online Notebook](http://nbviewer.ipython.org/github/iit-cs579/main/blob/master/lec/l18/l18.ipynb) or download the `.ipynb` file and view locally.
+We used these slides from the book:
+
+http://mmds.org/mmds/v2.1/ch09-recsys1.pdf
