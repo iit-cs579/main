@@ -22,7 +22,7 @@
 | 10/29 | Demographic Inference IV   | [notes](/lec/l14/logistic.pdf) |              |[L15](lec/l15)|
 | 11/3  | Text Regression I          |                               |               |  |
 | 11/5  | Text Regression II         |                               |               |[L17](lec/l17)|
-| 11/10 | Recommendation Systems I  |  [mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)                             |               |[L18](http://mmds.org/mmds/v2.1/ch09-recsys1.pdf)|
+| 11/10 | Recommendation Systems I  |  [mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)                             |               |[L18](lec/l18/)|
 | 11/12 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
 | 11/17 | Privacy/Ethics             |                               |               | |
 | 11/19 | Review                     |                               |               | [L21](lec/l21)|
