@@ -3,7 +3,7 @@
 
 **Course:** CS 579: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 1:50 - 3:05 pm M/W Stuart 238  
+**Meetings:** 1:50 - 3:05 pm M/W Life Sciences Bldg 111
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 11:00 a.m. - 12:00 p.m.  
