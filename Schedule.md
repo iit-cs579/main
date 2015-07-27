@@ -1,3 +1,5 @@
+**To change soon prior to Fall 2015 start...**
+
 | Date  | Topic                      | Readings                      | Due           | Lecture  |
 | ----- |----------------------------|-------------------------------|---------------|----------|
 | 8/25  | Introductions              |  [ek01](read/ek-01.pdf)       |               |[L01](lec/l01)|
