@@ -6,9 +6,9 @@
 **Meetings:** 1:50 - 3:05 pm M/W Life Sciences Bldg 111  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
-**Office Hours:** M/W 11:00 a.m. - 12:00 p.m.  
+**Office Hours:** M/W 3:05 p.m. - 4:00 p.m.  
 **Office:** Stuart Hall 229B  
-**TA:** TBD  
+**TA:** Junzhe Zheng (jzheng9 at hawk.iit.edu); office hours TBA
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
