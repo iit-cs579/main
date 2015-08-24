@@ -14,10 +14,10 @@
 | 9/23  | Cascades II                |  [ek19](read/ek-19.pdf)       |               |[L09](lec/l09)|
 | 9/28  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
 | 9/30  | Sentiment Analysis II      |  [tgd2003](read/tgd2003.pdf)  |               |[L11](lec/l11)|
-| 10/5  | Demographic Inference I    |                               |               |[L12](lec/l12)|
-| 10/7  | **Midterm**                |                               |               |          |
+| 10/5  | Demographic Inference I    |                               | [A3](asg/a3)  |[L12](lec/l12)|
+| 10/7  | Demographic Inference II   |                               |               |[L13](lec/l13)|
 | 10/12 | **No Class (Fall Break)**  |                               |               |          |
-| 10/14 | Demographic Inference II   |                               |               |[L13](lec/l13)|
+| 10/14 | **Midterm**                |                               |               |          |
 | 10/19 | **Proposals**              |                               |               |          |
 | 10/21 | **Proposals**              |                               | [P1](project) |          |
 | 10/26 | Demographic Inference III  | [notes](/lec/l14/gd.pdf)     |                |[L14](lec/l14)|
