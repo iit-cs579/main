@@ -26,7 +26,7 @@
 | 11/4  | Text Regression II         |                               |               |[L17](lec/l17)|
 | 11/9  | Recommendation Systems I  |  [mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/)|
 | 11/11 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
-| 11/16 | Privacy/Ethics             |                               |               | |
+| 11/16 | Privacy/Ethics             |                               |[A4](asg/a4)   | |
 | 11/18 | Review                     |                               |               | [L21](lec/l21)|
 | 11/23 | **Final Exam**             |                               |               |          |
 | 11/25 | **No Class (Thanksgiving)**|                               |               |          |
