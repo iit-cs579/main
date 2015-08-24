@@ -2,7 +2,6 @@ View the [Online Notebook](http://nbviewer.ipython.org/github/iit-cs579/main/blo
 
 If you have iPython installed, you can view the interactive notebook with:
 ```
-ipython notebook --matplotlib inline l01.ipynb
+ipython notebook l01.ipynb
 ```
 
-This will ensure that the inline figures are shown.
