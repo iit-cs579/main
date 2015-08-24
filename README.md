@@ -24,8 +24,8 @@
 **Grading:**
 
 200 points - [Assignments](asg) (4 @ 50 points each)  
-100 points - Midterm  
-100 points - Final  
+100 points - Test 1  
+100 points - Test 2  
 200 points - Project  
 **600 total points**
 
