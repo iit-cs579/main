@@ -1,7 +1,5 @@
 ## Assignment 1
 
-**Not yet finalized**
-
 **50 points**  
 **Due 9/2, before class**
 
