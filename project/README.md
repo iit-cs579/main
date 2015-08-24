@@ -1,6 +1,6 @@
 # Project
 
-Teams of students will complete a final project that applies some ideas from the class. Teams can consist of at most three students. Here are some guidelines:
+Teams of students will complete a final project that applies some ideas from the class. Teams can consist of at most **two** students. Here are some guidelines:
 
 - Your project shall be hosted on github. If you are on a team, pick one member's account.
 - Add a link to your project's github repository [here](https://github.com/iit-cs579/main/wiki/Project-Teams)
