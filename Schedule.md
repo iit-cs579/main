@@ -17,7 +17,7 @@
 | 10/5  | Demographic Inference I    |                               | [A3](asg/a3)  |[L12](lec/l12)|
 | 10/7  | Demographic Inference II   |                               |               |[L13](lec/l13)|
 | 10/12 | **No Class (Fall Break)**  |                               |               |          |
-| 10/14 | **Test 1 **                |                               |               |          |
+| 10/14 | **Test 1**                 |                               |               |          |
 | 10/19 | **Proposals**              |                               |               |          |
 | 10/21 | **Proposals**              |                               | [P1](project) |          |
 | 10/26 | Demographic Inference III  | [notes](/lec/l14/gd.pdf)     |                |[L14](lec/l14)|
