@@ -8,6 +8,9 @@
 # Setup
 
 1. Learn Python by complete the online Python training course at <http://www.codecademy.com/tracks/python>.
+  - At a minimum, you must complete the [Advanced Topics in Python](https://www.codecademy.com/courses/python-beginner-en-KAgt5/0/1) module. If you're new to Python, you'll likely have to complete many of the earlier modules as well.
+  - In your repository, upload a screenshot showing that you have completed the module. **Name the file python.pdf**
+  - This screen shot should be of your badges, which shows your username and the Advanced Topics in Python badge (e.g. https://www.codecademy.com/users/YOUR_USER_NAME/achievements)
 
 2. Learn git by completing the online training course at <http://try.github.io>.
 
@@ -17,7 +20,7 @@
 
 3. Install Pip <http://pip.readthedocs.org/en/latest/installing.html>. Pip allows you to install additional Python libraries.
 
-3. Install ipython: `pip install ipython`
+3. Install ipython: `pip install ipython` [**nb**: If you did step 4, this should already be installed]
 
 5. Install Git
   - Windows:
@@ -30,7 +33,7 @@
 6. Setup Git: <https://help.github.com/articles/set-up-git>
   - Mac/Linux only: Generate SSH keys <https://help.github.com/articles/generating-ssh-keys>
 
-7. Clone your private class repository
+7. Clone your private class repository [Note, you won't be able to do this until we create this repo for you, likely a week after class starts.]
    ```
    git clone https://github.com/iit-cs579/[YOUR_GITHUB_ID-asg].git
    ```
