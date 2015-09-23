@@ -17,7 +17,7 @@
 
 3. Install Pip <http://pip.readthedocs.org/en/latest/installing.html>. Pip allows you to install additional Python libraries.
 
-3. Install ipython: `pip install ipython` [**nb**: If you did step 4, this should already be installed]
+3. Install ipython: `pip install ipython[notebook]` [**nb**: If you did step 4, this should already be installed]
 
 5. Install Git
   - Windows:
