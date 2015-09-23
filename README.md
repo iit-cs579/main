@@ -11,7 +11,9 @@
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 3:05 p.m. - 4:00 p.m.  
 **Office:** Stuart Hall 229B  
-**TA:** Junzhe Zheng (jzheng9 at hawk.iit.edu); office hour Tuesday 2-3 p.m.
+**TAs:** 
+  - Junzhe Zheng (jzheng9 at hawk.iit.edu); office hour 2-3 p.m. Tuesdays 
+  - Alaa Ayach (aayach at hawk.iit.edu); office hour 12:45-1:45 p.m. Tuesdays 007 SB
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
