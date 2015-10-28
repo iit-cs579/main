@@ -21,13 +21,14 @@
 | 10/14 | **Test 1**                 |                               |               |          |
 | 10/19 | **Proposals**              |                               |               |          |
 | 10/21 | **Proposals**              |                               | [P1](project) |          |
-| 10/26 | Demographic Inference III  | [notes](/lec/l14/gd.pdf)      |                |[L14](lec/l14)|
-| 10/28 | Demographic Inference IV   | [notes](/lec/l14/logistic.pdf)|               |[L15](lec/l15)|
-| 11/2  | Text Regression I          |                               |               |  |
+| 10/26 | *Guest Lecture*            |                               |               |          | 
+| 10/28 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
+| 11/2 | Recommendation Systems II   |                               |               |[L19](lec/l19)|
+| 10/26 | More Classification        | [notes](/lec/l14/gd.pdf)      |               |[L14](lec/l14)|
+| 10/28 | More classification        | [notes](/lec/l14/logistic.pdf)|               |[L15](lec/l15)|
+| 11/2  | Text Regression I          |                               |               |              |
 | 11/4  | Text Regression II         |                               |               |[L17](lec/l17)|
 | 11/8  |                            |                               |  [A3](asg/a3) |              |
-| 11/9  | Recommendation Systems I  |  [mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/)|
-| 11/11 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
 | 11/16 | Privacy/Ethics             |                               |               | |
 | 11/18 | Review                     |                               |[A4](asg/a4)   | [L21](lec/l21)|
 | 11/23 | **Test 2**                 |                               |               |          |
