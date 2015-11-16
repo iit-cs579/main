@@ -30,12 +30,13 @@ The 200 points is broken down into:
       - proposal.pdf: A pdf version of your slides.
       - README.md: A markdown file listing the project title, team members, and CWIDs
 -  40 points - **Presentation**: Is the presentation clear, well-organized, and thorough?
-  - Create a presentation containing 5 slides, following the outline below:
+  - Create a presentation containing 6 slides, following the outline below:
     - Title: A descriptive title for your project and the team members names and CWIDs.
     - Problem: What specific problem are you trying to solve or what specific question are you trying to answer?
     - Approach: How did you do this? (at a high level)
     - Data: What data did collect? How much? What fields did you use? How did you collect it?  
     - Results: How well did your method work? What is its accuracy? Where did it work well? Where did it fail?
+    - Conclusions: What lessons/insights can we take away from your project?
   - Create a two minute video (screencast) that contains your presentation of the slides
     - You will turn in a single .mp4 file that is a video of your presentation slides with your voice over narration.
     - You are welcome to use any method to create this screen cast. Here are two that I have used:
