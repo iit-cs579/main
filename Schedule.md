@@ -29,8 +29,8 @@
 | 11/9 | More classification         | [notes](/lec/l14/logistic.pdf)|               |[L15](lec/l15)|
 | 11/11 | Text Regression            |                               |               |[L17](lec/l17)|
 | 11/16 | Privacy/Ethics & Review    |                               |               | |
-| 11/18 | Review                     |                               | [A4](asg/a4)  | [L21](lec/l21)|
+| 11/18 | Review                     |                               |               | [L21](lec/l21)|
 | 11/23 | **Test 2**                 |                               |               |          |
-| 11/25 | **No Class (Thanksgiving)**|                               |               |          |
+| 11/25 | **No Class (Thanksgiving)**|                               | [A4](asg/a4)  |          |
 | 11/30 | *Presentations*            |                               |               |          |
 | 12/2  | *Presentations*            |                               | [P2](project) |          |
