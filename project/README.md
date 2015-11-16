@@ -31,7 +31,7 @@ The 200 points is broken down into:
       - README.md: A markdown file listing the project title, team members, and CWIDs
 -  40 points - **Presentation**: Is the presentation clear, well-organized, and thorough?
 -  50 points - **Code**: Can I reproduce your results by running your code? Is the code well-written, debugged, and documented?
--  50 points - **Report**: Follow the similar format as the papers we read for class. Your report should be 4 pages, including all references and figures. Are the main algorithms, hypotheses, and assumptions clearly stated? Are the comparisons with related work sound? Sections include:
+-  50 points - **Report**: Your report should be 4 pages, including all references and figures. Are the main algorithms, hypotheses, and assumptions clearly stated? Are the comparisons with related work sound? Sections include:
   - *Introduction*: What did you do and **why**? What are the research questions of your analysis? What is your hypothesis?
   - *Data*: What data did you collect and how?
   - *Methods*: What did you do with the data, precisely?
