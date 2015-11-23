@@ -30,18 +30,19 @@ The 200 points is broken down into:
       - proposal.pdf: A pdf version of your slides.
       - README.md: A markdown file listing the project title, team members, and CWIDs
 -  40 points - **Presentation**: Is the presentation clear, well-organized, and thorough?
-  - Create a presentation containing 5 slides, following the outline below:
+  - Create a presentation containing 6 slides, following the outline below:
     - Title: A descriptive title for your project and the team members names and CWIDs.
-    - Problem: What problem are you trying to solve or what question are you trying to answer?
-    - Approach: How are you going to do this? (at a high level)
-    - Data: What data are you going to collect? How much? What fields from each record will you use? How will you collect it?  
-    - Timeline: List five things that you have to do to complete the project, and the date you expect each to be done.
+    - Problem: What specific problem are you trying to solve or what specific question are you trying to answer?
+    - Approach: How did you do this? (at a high level)
+    - Data: What data did collect? How much? What fields did you use? How did you collect it?  
+    - Results: How well did your method work? What is its accuracy? Where did it work well? Where did it fail?
+    - Conclusions: What lessons/insights can we take away from your project?
   - Create a two minute video (screencast) that contains your presentation of the slides
     - You will turn in a single .mp4 file that is a video of your presentation slides with your voice over narration.
     - You are welcome to use any method to create this screen cast. Here are two that I have used:
     - Using QuickTime: http://www.abeautifulsite.net/recording-a-screencast-with-quicktime/
     - Using screencast-o-matic: http://www.screencast-o-matic.com/
-    - Obviously, two minutes is not a lot of time. If you write out what you will say and revise it, you should be able to focus   - Create a directory in one team member's Github repository (e.g., http://github.com/iit-cs579/yourid-asg )
+  - Create a directory in **one** team member's Github repository (e.g., http://github.com/iit-cs579/yourid-asg )
     - Name the directory project (lowercase)
     - Into this directory you will push the following:
       - presentation.mp4: Your video from above
