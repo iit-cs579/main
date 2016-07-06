@@ -1,7 +1,7 @@
 ## CS579: Online Social Network Analysis  
 *[Illinois Institute of Technology](http://iit.edu)*  
 
-** Under construction for Fall 2016 **
+**Under construction for Fall 2016**
 
 **If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](http://goo.gl/forms/FIAPjYKbln) ASAP.**
 
