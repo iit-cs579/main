@@ -13,7 +13,7 @@
 
 3. Create a GitHub account and email me your github name (along with your IIT email address and full name).
 
-3. Install the Python/SciPy stack on your computer (if you haven't already) by follwing the instructions here: <http://continuum.io/downloads>. We'll be using Python 2.7, **not** Python 3. I recommend using Linux/Mac for this class, but Windows should work as well. 
+3. Install the Python/SciPy stack on your computer (if you haven't already) by follwing the instructions here: <http://continuum.io/downloads>. We'll be using Python 3, **not** Python 2. I recommend using Linux/Mac for this class, but Windows should work as well. 
 
 3. Install Pip <http://pip.readthedocs.org/en/latest/installing.html>. Pip allows you to install additional Python libraries.
 
