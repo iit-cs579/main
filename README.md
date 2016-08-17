@@ -31,25 +31,24 @@
 
 **Grading:**
 
-200 points - [Assignments](asg) (4 @ 50 points each)  
+250 points - [Assignments](asg) (5 @ 50 points each)  
 100 points - Test 1  
-100 points - Test 2  
-200 points - Project  
-**600 total points**
+150 points - Test 2  
+**500 total points**
 
 | **Percent** | **Grade** |
 |-------------|-----------|
 | 100-90      | A         |
 | 89-80       | B         |
 | 79-70       | C         |
-| 69-60       | D         |
-| < 60        | E         |
+| < 70        | E         |
 
 
 **Academic Integrity**
 
 - Please read IIT's [Academic Honesty Policy](http://www.iit.edu/student_affairs/handbook/information_and_regulations/code_of_academic_honesty.shtml)
-- All work you turn in must be done by you alone, except for the group project.
+- All work you turn in must be done by **you alone**
+- You may not look at the solution of any other student prior to the due date.
 - All violations will be reported to `academichonesty@iit.edu`.
 - The first violation will result in a failing grade for that assignment/test. The second will result in a failing grade for the course.
 
@@ -57,7 +56,7 @@
 **Late Submission Policy**
 
 - Late assignments will **not** be accepted, unless:
-  - There is an unavoidable medical, family, or other emergency.
+  - There is an unavoidable medical, family, or other emergency; **and**
   - You notify me **prior** to the due date.
 
 **Objectives:**
