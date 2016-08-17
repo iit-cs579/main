@@ -27,8 +27,8 @@
 | 11/7  | More Classification        |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3) | |
 | 11/9  | More Classification        | [notes](/lec/l14/logistic.pdf)|               |[L15](lec/l15)|
 | 11/14 | Text Regression            |                               |               |[L17](lec/l17)|
-| 11/16 | Privacy/Ethic              |                               |               |              |
-| 11/21 | Review                     |                               |               | [L21](lec/l21)|
+| 11/16 | Text Regression            |                               |               |              |
+| 11/21 | Privacy/Ethics             |                               |               | [L21](lec/l21)|
 | 11/23 | **No Class (Thanksgiving)**|                               |               |          |
-| 11/28 |                            |                               | [A4](https://github.com/iit-cs579/assignments/tree/master/a4)| |
+| 11/28 |   Review                   |                               | [A4](https://github.com/iit-cs579/assignments/tree/master/a4)| |
 | 11/30 | **Test 2**                 |                               |               |          |
