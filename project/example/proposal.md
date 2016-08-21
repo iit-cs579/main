@@ -1,1 +1,0 @@
-slides from your proposal
