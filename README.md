@@ -1,19 +1,22 @@
 ## CS579: Online Social Network Analysis  
 *[Illinois Institute of Technology](http://iit.edu)*  
 
-**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](http://goo.gl/forms/FIAPjYKbln) ASAP.**
+**Under construction for Fall 2016. Subject to change!!**
+
+<br><br><br><br>
+
+
+**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://docs.google.com/forms/d/1YlsYxnzoKXWxCqCHNpWD_YWFNmObTR-KmVGYiLg2aLc/viewform) ASAP.**
 
 
 **Course:** CS 579: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 1:50 - 3:05 pm M/W Life Sciences Bldg 111  
+**Meetings:** 1:50 - 3:05 pm M/W Perlstein Hall 131  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
-**Office Hours:** M/W 3:05 p.m. - 4:00 p.m.  
+**Office Hours:** M/W 11:00 a.m. - 12:00 p.m.  
 **Office:** Stuart Hall 229B  
-**TAs:** 
-  - Junzhe Zheng (jzheng9 at hawk.iit.edu); office hour 2-3 p.m. Tuesdays 
-  - Alaa Ayach (aayach at hawk.iit.edu); office hour 12:45-1:45 p.m. Tuesdays 007 SB
+**TAs:**  TBD
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
@@ -28,25 +31,24 @@
 
 **Grading:**
 
-200 points - [Assignments](asg) (4 @ 50 points each)  
+250 points - [Assignments](asg) (5 @ 50 points each)  
 100 points - Test 1  
-100 points - Test 2  
-200 points - Project  
-**600 total points**
+150 points - Test 2  
+**500 total points**
 
 | **Percent** | **Grade** |
 |-------------|-----------|
 | 100-90      | A         |
 | 89-80       | B         |
 | 79-70       | C         |
-| 69-60       | D         |
-| < 60        | E         |
+| < 70        | E         |
 
 
 **Academic Integrity**
 
 - Please read IIT's [Academic Honesty Policy](http://www.iit.edu/student_affairs/handbook/information_and_regulations/code_of_academic_honesty.shtml)
-- All work you turn in must be done by you alone, except for the group project.
+- All work you turn in must be done by **you alone**
+- You may not look at the solution of any other student prior to the due date.
 - All violations will be reported to `academichonesty@iit.edu`.
 - The first violation will result in a failing grade for that assignment/test. The second will result in a failing grade for the course.
 
@@ -54,7 +56,7 @@
 **Late Submission Policy**
 
 - Late assignments will **not** be accepted, unless:
-  - There is an unavoidable medical, family, or other emergency.
+  - There is an unavoidable medical, family, or other emergency; **and**
   - You notify me **prior** to the due date.
 
 **Objectives:**
