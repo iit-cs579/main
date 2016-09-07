@@ -12,7 +12,10 @@
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 11:00 a.m. - 12:00 p.m.  
 **Office:** Stuart Hall 229B  
-**TAs:**  Clayton Turner (cturner8 at hawk), T 12-1 (SB 002)
+**TAs:**  
+  - Clayton Turner (cturner8 at hawk), Office hour: T 12-1 (SB 002)
+  - Venkata Phani Sai Avinash Jonnalagadda (vjonnala at hawk)
+  - Hanqiao Lu (hlu22 at hawk)
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
