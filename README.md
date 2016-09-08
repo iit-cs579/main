@@ -14,8 +14,8 @@
 **Office:** Stuart Hall 229B  
 **TAs:**  
   - Clayton Turner (cturner8 at hawk), Office hour: T 12-1 (SB 002)
-  - Venkata Phani Sai Avinash Jonnalagadda (vjonnala at hawk)
-  - Hanqiao Lu (hlu22 at hawk), Office hour R 12-1
+  - Venkata Phani Sai Avinash Jonnalagadda (vjonnala at hawk) R 9-10 (SB 019)
+  - Hanqiao Lu (hlu22 at hawk), Office hour R 12-1 (SB 019)
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
