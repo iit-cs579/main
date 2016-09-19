@@ -13,8 +13,8 @@
 | 9/19  | Cascades I                 |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
 | 9/21  | Cascades II                |  [ek19](read/ek-19.pdf)       |               |[L09](lec/l09)|
 | 9/26  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
-| 9/28  | Sentiment Analysis II      |  [tgd2003](read/tgd2003.pdf)  | [A1](https://github.com/iit-cs579/assignments/tree/master/a1)  |[L11](lec/l11)|
-| 10/3  | Demographic Inference I    |                               |               |[L12](lec/l12)|
+| 9/28  | Sentiment Analysis II      |  [tgd2003](read/tgd2003.pdf)  |               |[L11](lec/l11)|
+| 10/3  | Demographic Inference I    |                               |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)  |[L12](lec/l12)|
 | 10/5  | Demographic Inference II   |                               |               |[L13](lec/l13)|
 | 10/10 | **No Class (Fall Break)**  |                               |               |          |
 | 10/12 | **Test 1**                 |                               |               |          |
