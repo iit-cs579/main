@@ -19,7 +19,8 @@
 | 10/10 | **No Class (Fall Break)**  |                               |               |          |
 | 10/12 | **Test 1**                 |                               |               |          |
 | 10/17 | Demographic Inference II                        |                               |               |  [L13](lec/l13)       |
-| 10/19 | TBD                        |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2) | |
+| 10/19 | TBD                        |                               |    | |
+| 10/21 | n/a                        |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2) | |
 | 10/24 | TBD                        |                               |               |          | 
 | 10/26 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
 | 10/31 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
