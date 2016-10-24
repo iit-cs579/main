@@ -24,8 +24,8 @@
 | 10/24 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
 | 10/26 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
 | 10/31 | More Classification        | [notes](/lec/l14/gd.pdf)      |               |[L14](lec/l14)|
-| 11/2  | More Classification        |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3) | |
-| 11/7  | More Classification        | [notes](/lec/l14/logistic.pdf)|               |[L15](lec/l15)|
+| 11/2  | More Classification        |                               |        | |
+| 11/7  | More Classification        | [notes](/lec/l14/logistic.pdf)| [A3](https://github.com/iit-cs579/assignments/tree/master/a3) |[L15](lec/l15)|
 | 11/9  | TBD                        |                               |               |          | 
 | 11/14 | Text Regression            |                               |               |[L17](lec/l17)|
 | 11/16 | Text Regression            |                               |               |              |
