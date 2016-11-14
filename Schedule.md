@@ -26,10 +26,10 @@
 | 10/31 | More Classification        | [notes](/lec/l14/gd.pdf)      |               |[L14](lec/l14)|
 | 11/2  | More Classification        |                               |        | |
 | 11/7  | More Classification        | [notes](/lec/l14/logistic.pdf)| [A3](https://github.com/iit-cs579/assignments/tree/master/a3) |[L15](lec/l15)|
-| 11/9  | TBD                        |                               |               |          | 
-| 11/14 | Text Regression            |                               |               |[L17](lec/l17)|
-| 11/16 | Text Regression            |                               |               |              |
-| 11/21 | Review             |                               |               | [L21](lec/l21)|
-| 11/23 | **No Class (Thanksgiving)**|                               |               |          |
+| 11/9  | Text Regression            |                               |               |  [L17](lec/l17)       | 
+| 11/14 | tbd                         |                               |               |                       |
+| 11/16 | tbd                        |                               |               |                       |
+| 11/21 | Review                     |                               |               | [L21](lec/l21)        |
+| 11/23 | **No Class (Thanksgiving)**|                               |               |                       |
 | 11/28 | **Test 2**                    |                               | | |
 | 11/30 |     Privacy/Ethics              |                               |       [A4](https://github.com/iit-cs579/assignments/tree/master/a4)        |          |
