@@ -32,4 +32,5 @@
 | 11/21 | Review                     |                               |               |  [L21](lec/l21)       |
 | 11/23 | **No Class (Thanksgiving)**|                               |               |                       |
 | 11/28 | **Test 2**                 |                               |               |                       |
-| 11/30 |     Privacy/Ethics         |                               |       [A4](https://github.com/iit-cs579/assignments/tree/master/a4)        |          |
+| 11/30 |     Privacy/Ethics         |                               |               |                       |
+| 12/01 |    --         |                               |       [A4](https://github.com/iit-cs579/assignments/tree/master/a4)        |          |
