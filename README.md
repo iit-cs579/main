@@ -2,20 +2,19 @@
 *[Illinois Institute of Technology](http://iit.edu)*  
 
 
-**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/CWs32n) ASAP.**
+**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/forms/Wk857dasCGQBoUjm1) ASAP.**
 
 
 **Course:** CS 579: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 1:50 - 3:05 pm M/W Perlstein Hall 131  
+**Meetings:** 1:50 - 3:05 pm M/W Stuart 104  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
-**Office Hours:** M/W 11:00 a.m. - 12:00 p.m.  
+**Office Hours:** M/W 9:30 a.m. - 10:30 p.m.  
 **Office:** Stuart Hall 229B  
 **TAs:**  
-  - Clayton Turner (cturner8 at hawk), Office hour: T 12-1 (SB 002)
-  - Venkata Phani Sai Avinash Jonnalagadda (vjonnala at hawk) R 9-10 (SB 019)
-  - Hanqiao Lu (hlu22 at hawk), Office hour R 12-1 (SB 019)
+  - Vickyben Patel (vpatel98 at hawk), Office hour: TBD 
+  - TBD (TBD at hawk) TBD
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
