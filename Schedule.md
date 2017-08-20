@@ -33,4 +33,3 @@
 | 11/22 | **No Class (Thanksgiving)**|                               |               |                       |
 | 11/27 |  Privacy/Ethics                |                               |               |                       |
 | 11/29 |     **Test 2**         |                               |               |                       |
-| 12/04 |    --         |                               |         |          |
