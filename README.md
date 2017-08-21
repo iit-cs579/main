@@ -10,7 +10,7 @@
 **Meetings:** 1:50 - 3:05 pm M/W Stuart 104  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
-**Office Hours:** M/W 9:30 a.m. - 10:30 p.m.  
+**Office Hours:** M/W 9:30 a.m. - 10:30 a.m.  
 **Office:** Stuart Hall 229B  
 **TAs:**  
   - Vickyben Patel (vpatel98 at hawk), Office hour: TBD 
@@ -30,8 +30,9 @@
 **Grading:**
 
 250 points - [Assignments](https://github.com/iit-cs579/assignments) (5 @ 50 points each)  
+50 points - Quizzes (2 @ 25 points each)  
 100 points - Test 1  
-150 points - Test 2  
+100 points - Test 2  
 **500 total points**
 
 | **Percent** | **Grade** |
