@@ -14,7 +14,7 @@
 **Office:** Stuart Hall 229B  
 **TAs:**  
   - Vickyben Patel (vpatel98 at hawk), Office hour: W 3:15-4:15pm outside of SB104
-  - Caner Komurlu (ckomurlu at hawk), Office hour: TBD
+  - Caner Komurlu (ckomurlu at hawk), Office hour: W 10:00-11:00am SB011
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
