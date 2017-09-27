@@ -13,13 +13,13 @@
 | 9/18  | Cascades I                 |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
 | 9/20  | Cascades II                |  [ek19](read/ek-19.pdf)       |               |[L09](lec/l09)|
 | 9/25  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
-| 9/27  | Sentiment Analysis Ia      |  [plv2002](read/plv2002.pdf)  |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)|[L10](lec/l10)|
-| 10/2  | Sentiment Analysis II      |  [tgd2003](read/tgd2003.pdf)  |               |[L11](lec/l11)|
-| 10/4  | Demographic Inference I    |                               |                 |[L12](lec/l12)|
+| 9/27  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)|[L11](lec/l11)|
+| 10/2  | Guest Lecture              |   [aaai16](http://cs.iit.edu/~culotta/pubs/landeiro16robust.pdf) [aaai15](http://cs.iit.edu/~culotta/pubs/virgile15using.pdf) |               | |
+| 10/4  | No class     |                               |             Q1    |  |
 | 10/9 | **No Class (Fall Break)**  |                               |               |              |
 | 10/11 | **Test 1**                 |                               |               |              |
-| 10/16 | Demographic Inference II   |                               |               |[L13](lec/l13)|
-| 10/18 | Demographic Inference III  |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)              |              |
+| 10/16 | Demographic Inference I   |                               |               |[L12](lec/l12) |
+| 10/18 | Demographic Inference II  |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)              |   [L13](lec/l13)           |
 | 10/20 | n/a                        |                               |  | |
 | 10/23 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
 | 10/25 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
