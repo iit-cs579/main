@@ -19,17 +19,16 @@
 | 10/9 | **No Class (Fall Break)**  |                               |               |              |
 | 10/11 | **Test 1**                 |                               |               |              |
 | 10/16 | Demographic Inference I   |                               |               |[L12](lec/l12) |
-| 10/18 | Demographic Inference II  |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)              |   [L13](lec/l13)           |
-| 10/20 | n/a                        |                               |  | |
+| 10/18 | Demographic Inference II  |                               |               |   [L13](lec/l13)           |
 | 10/23 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
-| 10/25 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
+| 10/25 | Recommendation Systems II  |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)              |[L19](lec/l19)|
 | 10/30 | More Classification        | [notes](/lec/l14/gd.pdf)      |               |[L14](lec/l14)|
-| 11/1  | More Classification        | [notes](/lec/l14/logistic.pdf)| [A3](https://github.com/iit-cs579/assignments/tree/master/a3)        | [L15](lec/l15) |
+| 11/1  | More Classification        | [notes](/lec/l14/logistic.pdf)|         | [L15](lec/l15) |
 | 11/6  | Text Regression            |                               |  | [L16](lec/l16)|
-| 11/8  | Text Regression            |                               |               |  [L17](lec/l17)       | 
+| 11/8  | Text Regression            |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3)              |  [L17](lec/l17)       | 
 | 11/13 | Word Clustering            | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf)                              |               |  [L20](lec/l20)       |
 | 11/15 | Word Clustering            |                               |               |  [L20](lec/l20)       |
-| 11/20 | Review                     |  |     [A4](https://github.com/iit-cs579/assignments/tree/master/a4)                               |               |  [L21](lec/l21)       |
+| 11/20 | Review                     |  |                                  |               |  [L21](lec/l21)       |
 | 11/22 | **No Class (Thanksgiving)**|                               |               |                       |
-| 11/27 |  Privacy/Ethics                |                               |               |                       |
+| 11/27 |  Privacy/Ethics                |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                       |
 | 11/29 |     **Test 2**         |                               |               |                       |
