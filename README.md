@@ -11,7 +11,7 @@
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 9:30 a.m. - 10:30 a.m.  
-**Office:** Stuart Hall 229B  
+**Office:** Stuart Hall 209C  
 **TAs:**  
   - Vickyben Patel (vpatel98 at hawk), Office hour: W 3:15-4:15pm outside of SB104
   - Caner Komurlu (ckomurlu at hawk), Office hour: W 10:00-11:00am SB011
