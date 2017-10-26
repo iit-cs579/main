@@ -21,7 +21,8 @@
 | 10/16 | Demographic Inference I   |                               |               |[L12](lec/l12) |
 | 10/18 | Demographic Inference II  |                               |               |   [L13](lec/l13)           |
 | 10/23 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
-| 10/25 | Recommendation Systems II  |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)              |[L19](lec/l19)|
+| 10/25 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
+| 10/27 | | | [A2](https://github.com/iit-cs579/assignments/tree/master/a2) |
 | 10/30 | More Classification        | [notes](/lec/l14/gd.pdf)      |               |[L14](lec/l14)|
 | 11/1  | More Classification        | [notes](/lec/l14/logistic.pdf)|         | [L15](lec/l15) |
 | 11/6  | Text Regression            |                               |  | [L16](lec/l16)|
