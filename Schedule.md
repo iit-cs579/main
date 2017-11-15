@@ -29,7 +29,8 @@
 | 11/8  | Text Regression            |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3)              |  [L17](lec/l17)       | 
 | 11/13 | Word Clustering            | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf)                              |               |  [L20](lec/l20)       |
 | 11/15 | Word Clustering            |                               |               |  [L20](lec/l20)       |
-| 11/20 | Review                     |  |                                  |               |  [L21](lec/l21)       |
+| 11/20 | **No class**                     |  |  Q2                                |               |  [L21](lec/l21)       |
 | 11/22 | **No Class (Thanksgiving)**|                               |               |                       |
 | 11/27 |  Privacy/Ethics                |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                       |
 | 11/29 |     **Test 2**         |                               |               |                       |
+| 12/4  | --  | |  bonus asg. | |
