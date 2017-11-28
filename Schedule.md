@@ -33,4 +33,4 @@
 | 11/22 | **No Class (Thanksgiving)**|                               |               |                       |
 | 11/27 |  Privacy/Ethics                |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                       |
 | 11/29 |     **Test 2**         |                               |               |                       |
-| 12/4  | --  | |  bonus asg. | |
+| 12/4  | --  | |  [bonus](https://github.com/iit-cs579/assignments/tree/master/bonus) | |
