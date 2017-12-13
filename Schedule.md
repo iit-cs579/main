@@ -30,7 +30,7 @@
 | 4/4 | Word Clustering            |                               |      Q2         |  [L20](lec/l20)       |
 | 4/9 | TBD |
 | 4/11 | TBD |
-| 4/16 | TBD |
-| 4/18 |  Privacy/Ethics                |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                [L21](lec/l21)        |
-| 4/23 |     **Test 2**         |                               |               |                       |
+| 4/16 | Presentations |
+| 4/18 |  Presentations |
+| 4/23 |  Ethics              |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                [L21](lec/l21)        |
 | 4/25 |     **Test 2**         |                               |               |                       |
