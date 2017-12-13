@@ -28,8 +28,8 @@
 | 3/28  | Text Regression            |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3)              |  [L17](lec/l17)       | 
 | 4/2 | Word Clustering            | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf)                              |               |  [L20](lec/l20)       |
 | 4/4 | Word Clustering            |                               |      Q2         |  [L20](lec/l20)       |
-| 4/9 | TBD |
-| 4/11 | TBD |
+| 4/9 | Special Topics (Bots/Fake news) |
+| 4/11 | Special Topics (TBD) |
 | 4/16 | Presentations |
 | 4/18 |  Presentations |
 | 4/23 |  Ethics              |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                [L21](lec/l21)        |
