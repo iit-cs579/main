@@ -7,14 +7,12 @@
 
 **Course:** CS 579: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 1:50 - 3:05 pm M/W Stuart 104  
+**Meetings:** 1:50 - 3:05 pm M/W Stuart 113   
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 9:30 a.m. - 10:30 a.m.  
 **Office:** Stuart Hall 209C  
-**TAs:**  
-  - Vickyben Patel (vpatel98 at hawk), Office hour: W 3:15-4:15pm outside of SB104
-  - Caner Komurlu (ckomurlu at hawk), Office hour: W 10:00-11:00am SB011
+**TAs:**  TBD
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
@@ -42,11 +40,13 @@
 | 79-70       | C         |
 | < 70        | E         |
 
+**Grade disputes**
+- Any questions about the grading of an assignment or test must be made **within 7 days** of the receipt of the grade. Questions will not be considered after this date.
 
 **Academic Integrity**
 
 - Please read IIT's [Academic Honesty Policy](http://www.iit.edu/student_affairs/handbook/information_and_regulations/code_of_academic_honesty.shtml)
-- All work you turn in must be done by **you alone**
+- All work you turn in must be done by **you alone**. This includes all assignments and quizzes.
 - You may not look at the solution of any other student prior to the due date.
 - All violations will be reported to `academichonesty@iit.edu`.
 - The first violation will result in a failing grade for that assignment/test. The second will result in a failing grade for the course.
