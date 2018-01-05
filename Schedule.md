@@ -11,7 +11,7 @@
 | 1/29  | Community Detection II     |  [lru10.4](read/lru-10.pdf)   |               |[L06](lec/l06)|
 | 1/31  | Link Prediction            |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
 | 2/5  | Cascades I                 |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
-| 2/7  | Cascades II                |  [ek19](read/ek-19.pdf)       |               |[L09](lec/l09)|
+| 2/7  | Cascades II                |  [ek19](read/ek-19.pdf)       | [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)              |[L09](lec/l09)|
 | 2/12  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
 | 2/14  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)|[L11](lec/l11)|
 | 2/19 | **Test 1**                 |                               |               |              |
@@ -22,7 +22,7 @@
 | 3/7 | More Classification        | [notes](/lec/l14/gd.pdf)      | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)                |[L14](lec/l14)|
 | 3/12 | **No Class (Spring Break)** |
 | 3/14 | **No Class (Spring Break)** |
-| 3/19  | More Classification        | [notes](/lec/l14/logistic.pdf)|         | [L15](lec/l15) |
+| 3/19  | More Classification        | [notes](/lec/l14/logistic.pdf)| [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)           | [L15](lec/l15) |
 | 3/21  | Guest Lecture            |    
 | 3/26  | Text Regression            |                               |       |  [L16](lec/l17)       | 
 | 3/28  | Text Regression            |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3)              |  [L17](lec/l17)       | 
@@ -30,7 +30,8 @@
 | 4/4 | Word Clustering            |                               |      Q2         |  [L20](lec/l20)       |
 | 4/9 | Special Topics (Bots/Fake news) |
 | 4/11 | Special Topics (TBD) |
+| 4/15 | -- | | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project)   |
 | 4/16 | Presentations |
-| 4/18 |  Presentations |
+| 4/18 |  Presentations | | [Report](https://github.com/iit-cs579/assignments/tree/master/project)   
 | 4/23 |  Ethics              |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                [L21](lec/l21)        |
 | 4/25 |     **Test 2**         |                               |               |                       |
