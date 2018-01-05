@@ -2,7 +2,7 @@
 *[Illinois Institute of Technology](http://iit.edu)*  
 
 
-**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/forms/Wk857dasCGQBoUjm1) ASAP.**
+**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/forms/QqSuILOWBDCh8cF32) ASAP.**
 
 
 **Course:** CS 579: Online Social Network Analysis  
