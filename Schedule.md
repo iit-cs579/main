@@ -19,7 +19,7 @@
 | 2/26 | Demographic Inference II  |                               |               |   [L13](lec/l13)           |
 | 2/28 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
 | 3/5 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
-| 3/7 | More Classification        | [notes](/lec/l14/gd.pdf)      |               |[L14](lec/l14)|
+| 3/7 | More Classification        | [notes](/lec/l14/gd.pdf)      | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)                |[L14](lec/l14)|
 | 3/12 | **No Class (Spring Break)** |
 | 3/14 | **No Class (Spring Break)** |
 | 3/19  | More Classification        | [notes](/lec/l14/logistic.pdf)|         | [L15](lec/l15) |
