@@ -27,11 +27,12 @@
 
 **Grading:**
 
-250 points - [Assignments](https://github.com/iit-cs579/assignments) (5 @ 50 points each)  
+200 points - [Assignments](https://github.com/iit-cs579/assignments) (4 @ 50 points each)  
 50 points - Quizzes (2 @ 25 points each)  
 100 points - Test 1  
-100 points - Test 2  
-**500 total points**
+100 points - Test 2 
+100 points - Project  
+**550 total points**
 
 | **Percent** | **Grade** |
 |-------------|-----------|
