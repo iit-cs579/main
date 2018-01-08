@@ -12,7 +12,7 @@
 | 1/31  | Link Prediction            |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
 | 2/5  | Cascades I                 |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
 | 2/7  | Cascades II                |  [ek19](read/ek-19.pdf)       | [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)              |[L09](lec/l09)|
-| 2/12  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
+| 2/12  | Sentiment Analysis I       |  [plv2002](read/plv2002.pdf)  | Q1             |[L10](lec/l10)|
 | 2/14  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)|[L11](lec/l11)|
 | 2/19 | **Test 1**                 |                               |               |              |
 | 2/21 | Demographic Inference I   |                               |               |[L12](lec/l12) |
@@ -27,9 +27,9 @@
 | 3/26  | Text Regression            |                               |       |  [L16](lec/l17)       | 
 | 3/28  | Text Regression            |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3)              |  [L17](lec/l17)       | 
 | 4/2 | Word Clustering            | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf)                              |               |  [L20](lec/l20)       |
-| 4/4 | Word Clustering            |                               |      Q2         |  [L20](lec/l20)       |
+| 4/4 | Word Clustering            |                               |               |  [L20](lec/l20)       |
 | 4/9 | Special Topics (Bots/Fake news) |
-| 4/11 | Special Topics (TBD) |
+| 4/11 | Special Topics (TBD) |    |   Q2
 | 4/15 | -- | | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project)   |
 | 4/16 | Presentations |
 | 4/18 |  Presentations | | [Report](https://github.com/iit-cs579/assignments/tree/master/project)   
