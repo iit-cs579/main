@@ -12,7 +12,7 @@
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 9:30 a.m. - 10:30 a.m.  
 **Office:** Stuart Hall 209C  
-**TAs:**  TBD
+**TAs:**  	Kaiyue Zhu (kzhu6 at hawk) office hours M/W 12-1 in common area outside SB113
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
