@@ -19,16 +19,16 @@
 | 2/26 | Demographic Inference II  |                               |               |   [L13](lec/l13)           |
 | 2/28 | Recommendation Systems I   |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |               |[L18](lec/l18/) |
 | 3/5 | Recommendation Systems II  |                               |               |[L19](lec/l19)|
-| 3/7 | More Classification        | [notes](/lec/l14/gd.pdf)      | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)                |[L14](lec/l14)|
+| 3/7 | More Classification        | [notes](/lec/l14/gd.pdf)      |               |[L14](lec/l14)|
 | 3/12 | **No Class (Spring Break)** |
 | 3/14 | **No Class (Spring Break)** |
 | 3/19  | More Classification        | [notes](/lec/l14/logistic.pdf)| [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)           | [L15](lec/l15) |
-| 3/21  | Guest Lecture            |    
+| 3/21  | Guest Lecture             |            |          [A2](https://github.com/iit-cs579/assignments/tree/master/a2)   |
 | 3/26  | Text Regression            |                               |       |  [L16](lec/l17)       | 
-| 3/28  | Text Regression            |                               | [A3](https://github.com/iit-cs579/assignments/tree/master/a3)              |  [L17](lec/l17)       | 
+| 3/28  | Text Regression            |                               |      |  [L17](lec/l17)       | 
 | 4/2 | Word Clustering            | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf)                              |               |  [L20](lec/l20)       |
 | 4/4 | Word Clustering            |                               |               |  [L20](lec/l20)       |
-| 4/9 | Special Topics (Bots/Fake news) |
+| 4/9 | Special Topics (Bots/Fake news) |   |    [A3](https://github.com/iit-cs579/assignments/tree/master/a3) |
 | 4/11 | Special Topics (TBD) |    |   Q2
 | 4/15 | -- | | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project)   |
 | 4/16 | Presentations |
