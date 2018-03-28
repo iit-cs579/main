@@ -24,7 +24,7 @@
 | 3/14 | **No Class (Spring Break)** |
 | 3/19  | More Classification        | [notes](/lec/l14/logistic.pdf)| [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)           | [L15](lec/l15) |
 | 3/21  | Guest Lecture             |            |          [A2](https://github.com/iit-cs579/assignments/tree/master/a2)   |
-| 3/26  | Text Regression            |                               |       |  [L16](lec/l17)       | 
+| 3/26  | Text Regression            |                               |       |  [L16](lec/l16)       | 
 | 3/28  | Text Regression            |                               |      |  [L17](lec/l17)       | 
 | 4/2 | Word Clustering            | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf)                              |               |  [L20](lec/l20)       |
 | 4/4 | Word Clustering            |                               |               |  [L20](lec/l20)       |
