@@ -35,4 +35,4 @@
 | 4/18 |  Presentations | | [Report](https://github.com/iit-cs579/assignments/tree/master/project)   
 | 4/23 |  Ethics              |                               |      |                [L23](lec/l23)        |
 | 4/25 |     **Test 2**         |                               |               |                       |
-| 4/30 | -- | |  [A4](https://github.com/iit-cs579/assignments/tree/master/a4)           |
+| 4/30 | -- | |  [bonus](https://github.com/iit-cs579/assignments/tree/master/bonus)           |
