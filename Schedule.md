@@ -28,10 +28,10 @@
 | 3/28  | Text Regression            |                               |      |  [L17](lec/l17)       | 
 | 4/2 | Word Clustering            | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf)                              |               |  [L20](lec/l20)       |
 | 4/4 | Word Clustering            |                               |               |  [L20](lec/l20)       |
-| 4/9 | Special Topics (Bots/Fake news) |   |    [A3](https://github.com/iit-cs579/assignments/tree/master/a3) |
-| 4/11 | Special Topics (TBD) |    |   Q2
+| 4/9 | Special Topics (Bots/Fake news) |   |    [A3](https://github.com/iit-cs579/assignments/tree/master/a3) | [L21](lec/l21) 
+| 4/11 | Special Topics (TBD) |    |   Q2 |  [L22](lec/l22) 
 | 4/15 | -- | | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project)   |
 | 4/16 | Presentations |
 | 4/18 |  Presentations | | [Report](https://github.com/iit-cs579/assignments/tree/master/project)   
-| 4/23 |  Ethics              |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                [L21](lec/l21)        |
+| 4/23 |  Ethics              |                               |   [A4](https://github.com/iit-cs579/assignments/tree/master/a4)              |                [L23](lec/l23)        |
 | 4/25 |     **Test 2**         |                               |               |                       |
