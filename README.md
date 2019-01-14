@@ -9,12 +9,12 @@
 
 **Course:** CS 579: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 1:50 - 3:05 pm M/W Stuart 113   
+**Meetings:** 10:00 - 11:15 am M/W Stuart 102  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
-**Office Hours:** M/W 9:30 a.m. - 10:30 a.m.  
+**Office Hours:** M/W 11:15 a.m. - 12:00 p.m.  
 **Office:** Stuart Hall 209C  
-**TAs:**  	Kaiyue Zhu (kzhu6 at hawk) office hours M/W 12-1 in common area outside SB113
+**TAs:**  	Xintian Li (xli239 at hawk) office hours TBD, Lan Wei (lwei3 at hawk) office hours TBD
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
@@ -29,12 +29,11 @@
 
 **Grading:**
 
-200 points - [Assignments](https://github.com/iit-cs579/assignments) (4 @ 50 points each)  
+250 points - [Assignments](https://github.com/iit-cs579/assignments) (5 @ 50 points each)  
 50 points - Quizzes (2 @ 25 points each)  
 100 points - Test 1  
 100 points - Test 2  
-100 points - [Project](https://github.com/iit-cs579/assignments/tree/master/project)  
-**550 total points**
+**500 total points**
 
 | **Percent** | **Grade** |
 |-------------|-----------|
