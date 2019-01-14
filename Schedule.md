@@ -20,16 +20,16 @@
 | 3/04  | Recommendation Systems I    |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |  |[L18](lec/l18/) |
 | 3/06  | Recommendation Systems II   |                               |               |[L19](lec/l19)|
 | 3/11  | More Classification         |[notes](/lec/l14/gd.pdf)       |               |[L14](lec/l14)|
-| 3/13  | More Classification         |[notes](/lec/l14/logistic.pdf) |               |[L15](lec/l15)|
+| 3/13  | More Classification         |[notes](/lec/l14/logistic.pdf) |[A2](https://github.com/iit-cs579/assignments/tree/master/a2)               |[L15](lec/l15)|
 | 3/18  | **No Class (Spring Break)** |
 | 3/20  | **No Class (Spring Break)** |
 | 3/25  | More Classification         |                               |               | 
-| 3/27  | More Classification         |                               |[A2](https://github.com/iit-cs579/assignments/tree/master/a2)   |
+| 3/27  | More Classification         |                               |               |
 | 4/01  | Text Regression             |                               |               |  [L16](lec/l16)       | 
-| 4/03  | Text Regression             |                               |               |  [L17](lec/l17)       | 
+| 4/03  | Text Regression             |                               |   [A3](https://github.com/iit-cs579/assignments/tree/master/a3)               |  [L17](lec/l17)       | 
 | 4/08  | Word Clustering             | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf) |               |  [L20](lec/l20)       |
 | 4/10  | Word Clustering             |                               |               |  [L20](lec/l20)       |
-| 4/15  | Bots/Fake news              |                               |    [A3](https://github.com/iit-cs579/assignments/tree/master/a3) | [L21](lec/l21) 
+| 4/15  | Bots/Fake news              |                               |  | [L21](lec/l21) 
 | 4/17  | Bots/Fake news              |                               |   Q2          |  [L22](lec/l22) 
 | 4/22  | Cyberbullying               |                               |               | [L23](lec/l23) 
 | 4/24  | Crisis Informatics          |                               |[A4](https://github.com/iit-cs579/assignments/tree/master/a4)   | 
