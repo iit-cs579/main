@@ -4,7 +4,7 @@
 **under construction!!**
 
 
-**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/forms/QqSuILOWBDCh8cF32) ASAP.**
+**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/forms/T93f9AnIS2vGGPiA2) ASAP.**
 
 
 **Course:** CS 579: Online Social Network Analysis  
