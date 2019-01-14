@@ -1,7 +1,6 @@
 ## CS579: Online Social Network Analysis  
 *[Illinois Institute of Technology](http://iit.edu)*  
 
-**under construction!!**
 
 
 **If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/forms/T93f9AnIS2vGGPiA2) ASAP.**
@@ -9,7 +8,7 @@
 
 **Course:** CS 579: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 10:00 - 11:15 am M/W Stuart 102  
+**Meetings:** 10:00 - 11:15 am M/W Stuart 104  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 11:15 a.m. - 12:00 p.m.  
