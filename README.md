@@ -13,7 +13,7 @@
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 11:15 a.m. - 12:00 p.m.  
 **Office:** Stuart Hall 209C  
-**TAs:**  	Xintian Li (xli239 at hawk) office hours TBD, Lan Wei (lwei3 at hawk) office hours TBD
+**TAs:**  	Xintian Li (xli239 at hawk) office hours Mon 3-4 p.m. in SB 019, Lan Wei (lwei3 at hawk) office hours Tues 12:55-1:55pm,  SB 019  
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
