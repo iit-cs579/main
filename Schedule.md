@@ -7,7 +7,8 @@
 | 1/21  | **No Class (MLK)**          | 
 | 1/23  | Representing Graphs         |  [ek02](read/ek-02.pdf)       |               |[L03](lec/l03)|
 | 1/28  | Small Worlds                |  [ek20](read/ek-20.pdf)       |               |[L04](lec/l04)|
-| 1/30  | Community Detection I       |  [lru10.2-3](read/lru-10.pdf) | [A0](https://github.com/iit-cs579/assignments/tree/master/a0)  |[L05](lec/l05)|
+| 1/30  | Community Detection I       |  [lru10.2-3](read/lru-10.pdf) |               |[L05](lec/l05)|
+| 2/01  |                             |                               | [A0](https://github.com/iit-cs579/assignments/tree/master/a0)  | |
 | 2/04  | Community Detection II      |  [lru10.4](read/lru-10.pdf)   |               |[L06](lec/l06)|
 | 2/06  | Link Prediction             |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
 | 2/11  | Cascades I                  |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
