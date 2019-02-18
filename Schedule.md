@@ -13,7 +13,8 @@
 | 2/06  | Link Prediction             |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
 | 2/11  | Cascades I                  |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
 | 2/13  | Cascades II                 |  [ek19](read/ek-19.pdf)       |               |[L09](lec/l09)|
-| 2/18  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  | Q1            |[L10](lec/l10)|
+| 2/18  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
+| 2/19  |                             |                               | Q1            |              |
 | 2/20  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)|[L11](lec/l11)|
 | 2/25  | **Test 1**                  |                               |               |              |
 | 2/27  | Demographic Inference I     |                               |               |[L12](lec/l12)|
