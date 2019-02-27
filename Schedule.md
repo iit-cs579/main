@@ -17,8 +17,7 @@
 | 2/19  |                             |                               | Q1            |              |
 | 2/20  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)|[L11](lec/l11)|
 | 2/25  | **Test 1**                  |                               |               |              |
-| 2/27  | Demographic Inference I     |                               |               |[L12](lec/l12)|
-| 2/26  | Demographic Inference II    |                               |               |[L13](lec/l13)|
+| 2/27  | Demographic Inference      |                               |               |[L12](lec/l12) [L13](lec/l13)|
 | 3/04  | Recommendation Systems I    |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |  |[L18](lec/l18/) |
 | 3/06  | Recommendation Systems II   |                               |               |[L19](lec/l19)|
 | 3/11  | More Classification         |[notes](/lec/l14/gd.pdf)       |               |[L14](lec/l14)|
