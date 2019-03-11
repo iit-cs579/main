@@ -22,12 +22,11 @@
 | 3/06  | More Classification         |                               |               |              |
 | 3/11  | Recommendation Systems I    |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |  |[L18](lec/l18/) |
 | 3/13  | Recommendation Systems II   |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2) | [L19](lec/l19)| 
-       
 | 3/18  | **No Class (Spring Break)** |
 | 3/20  | **No Class (Spring Break)** |
-| 3/25  | More Classification         |[notes](/lec/l14/gd.pdf)  [notes2](/lec/l14/logistic.pdf)     |               |[L14](lec/l14)|
-| 3/27  | More Classification         |                               |               |[L15](lec/l15) |
-| 4/01  | Text Regression             |                               |               |  [L16](lec/l16)       | 
+| 3/25  | More Classification         | [notes](/lec/l14/gd.pdf)  [notes2](/lec/l14/logistic.pdf)     |               |[L14](lec/l14)|
+| 3/27  | More Classification         |                               |               | [L15](lec/l15)  |
+| 4/01  | Text Regression             |                               |               |  [L16](lec/l16) | 
 | 4/03  | Text Regression             |                               |   [A3](https://github.com/iit-cs579/assignments/tree/master/a3)               |  [L17](lec/l17)       | 
 | 4/08  | Word Clustering             | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf) |               |  [L20](lec/l20)       |
 | 4/10  | Word Clustering             |                               |               |  [L20](lec/l20)       |
