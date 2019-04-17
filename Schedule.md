@@ -30,7 +30,7 @@
 | 4/03  | Text Regression             |                               |   [A3](https://github.com/iit-cs579/assignments/tree/master/a3)               |  [L17](lec/l17)       | 
 | 4/08  | Word Clustering             | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf) |               |  [L20](lec/l20)       |
 | 4/10  | Word Clustering             |                               |               |  [L20](lec/l20)       |
-| 4/15  | Bots/Fake news              |                               | [article](https://science.sciencemag.org/content/359/6380/1146.full) | [L21](lec/l21) 
+| 4/15  | Bots/Fake news              | [article](https://science.sciencemag.org/content/359/6380/1146.full)                              |  | [L21](lec/l21) 
 | 4/17  | Bots/Fake news              |                               |   Q2          |  [L22](lec/l22) 
 | 4/22  | Cyberbullying               |                               |               | [L23](lec/l23) 
 | 4/24  | Crisis Informatics          |                               |[A4](https://github.com/iit-cs579/assignments/tree/master/a4)   | 
