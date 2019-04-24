@@ -33,6 +33,7 @@
 | 4/15  | Bots/Fake news              | [article](https://science.sciencemag.org/content/359/6380/1146.full)                              |  | [L21](lec/l21) 
 | 4/17  | Bots/Fake news              |                               |   Q2          |  [L22](lec/l22) 
 | 4/22  | Cyberbullying               |                               |               | [L23](lec/l23) 
-| 4/24  | Crisis Informatics          |                               |[A4](https://github.com/iit-cs579/assignments/tree/master/a4)   | 
-| 4/29  | Ethics                      |                               |  
+| 4/24  | Ethics          |                               | | [L25](lec/l25)
+| 4/26  |                             |                               |[A4](https://github.com/iit-cs579/assignments/tree/master/a4)   | 
+| 4/29  | Future of OSNA                      |                               |  
 | 5/01  |  **Test 2**                 |                               |               |               |
