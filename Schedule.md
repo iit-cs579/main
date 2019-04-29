@@ -37,3 +37,4 @@
 | 4/26  |                             |                               |[A4](https://github.com/iit-cs579/assignments/tree/master/a4)   | 
 | 4/29  | Future of OSNA                      |                               |  | [L26](lec/l26)
 | 5/01  |  **Test 2**                 |                               |               |               |
+| 5/06  |                             |                               |               |    [bonus](https://github.com/iit-cs579/assignments/tree/master/bonus)            |
