@@ -35,5 +35,5 @@
 | 4/22  | Cyberbullying               |                               |               | [L23](lec/l23) 
 | 4/24  | Ethics          |                               | | [L25](lec/l25)
 | 4/26  |                             |                               |[A4](https://github.com/iit-cs579/assignments/tree/master/a4)   | 
-| 4/29  | Future of OSNA                      |                               |  
+| 4/29  | Future of OSNA                      |                               |  [L26](lec/l26)
 | 5/01  |  **Test 2**                 |                               |               |               |
