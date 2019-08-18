@@ -1,19 +1,19 @@
 ## CS579: Online Social Network Analysis  
 *[Illinois Institute of Technology](http://iit.edu)*  
 
-** Under construction! **
+**Under construction!**
 
-**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://goo.gl/forms/T93f9AnIS2vGGPiA2) ASAP.**
+**If you've joined the class late, please check Blackboard for announcements, and please complete the [course survey](https://forms.gle/ADnLtUPW3CskXRzX7) ASAP.**
 
 
 **Course:** CS 579: Online Social Network Analysis  
 **Instructor:** [Dr. Aron Culotta](http://cs.iit.edu/~culotta)  
-**Meetings:** 10:00 - 11:15 am M/W Stuart 104  
+**Meetings:** 11:25 - 12:40 am M/W RE 032  
 **E-mail:** culotta at cs.iit.edu  
 **Phone:** 312-567-5261  
-**Office Hours:** M/W 11:15 a.m. - 12:00 p.m.  
+**Office Hours:** M/W 2:00 p.m. - 3:00 p.m.  
 **Office:** Stuart Hall 209C  
-**TAs:**  	Xintian Li (xli239 at hawk) office hours Mon 3-4 p.m. in SB 019, Lan Wei (lwei3 at hawk) office hours Tues 12:55-1:55pm,  SB 019  
+**TAs:**  	TBD  
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
