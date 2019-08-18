@@ -19,10 +19,10 @@
 | 10/07 | **Fall Break**              |                               |            [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)    |              |
 | 10/09 | **Test 1**                  |                               |               |              |
 | 10/14 | Demographic Inference       |                               |               |[L12](lec/l12)|
-| 10/16 | Demographic Inference       |                               |               |[L13](lec/l13)|
+| 10/16 | Demographic Inference       |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)               |[L13](lec/l13)|
 | 10/21 | More Classification         |                               |               |              |
 | 10/23 | Recommendation Systems I    |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |  |[L18](lec/l18/) |
-| 10/28 | Recommendation Systems II   |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2) | [L19](lec/l19)| 
+| 10/28 | Recommendation Systems II   |                               | | [L19](lec/l19)| 
 | 10/30 | More Classification         | [notes](/lec/l14/gd.pdf)  [notes2](/lec/l14/logistic.pdf)     |     [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)            |[L14](lec/l14)|
 | 11/04 | More Classification         |                               |               | [L15](lec/l15)  |
 | 11/06 | Text Regression             |                               |               |  [L16](lec/l16) [L17](lec/l17) |  [A3](https://github.com/iit-cs579/assignments/tree/master/a3)               
