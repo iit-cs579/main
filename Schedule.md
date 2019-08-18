@@ -7,7 +7,7 @@
 | 8/26  | Representing Graphs         |  [ek02](read/ek-02.pdf)       |               |[L03](lec/l03)|
 | 8/28  | Aron Travels | | |
 | 9/02  | Labor Day | | |
-| 9/04  | Small Worlds                |  [ek20](read/ek-20.pdf)       |               |[L04](lec/l04)|
+| 9/04  | Small Worlds                |  [ek20](read/ek-20.pdf)       | [A0](https://github.com/iit-cs579/assignments/tree/master/a0)               |[L04](lec/l04)|
 | 9/09  | Community Detection I       |  [lru10.2-3](read/lru-10.pdf) |               |[L05](lec/l05)|
 | 9/11  | Community Detection II      |  [lru10.4](read/lru-10.pdf)   |               |[L06](lec/l06)|
 | 9/16  | Link Prediction             |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
@@ -16,8 +16,8 @@
 | 9/25  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
 | 9/30  |                             |                               | Q1            |              |
 | 10/02 | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)|[L11](lec/l11)|
-| 10/07 | **Fall Break**                  |                               |            [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)    |              |
-| 10/09 | **Test 1 (Yom Kippur, move?)**                  |                               |               |              |
+| 10/07 | **Fall Break**              |                               |            [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)    |              |
+| 10/09 | **Test 1**                  |                               |               |              |
 | 10/14 | Demographic Inference       |                               |               |[L12](lec/l12)|
 | 10/16 | Demographic Inference       |                               |               |[L13](lec/l13)|
 | 10/21 | More Classification         |                               |               |              |
