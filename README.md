@@ -30,8 +30,8 @@
 
 150 points - [Assignments](https://github.com/iit-cs579/assignments) (3 @ 50 points each)  
 50 points - Quizzes (2 @ 25 points each)  
-100 points - Test 
-100 points - Project
+100 points - Test  
+100 points - Project  
 **400 total points**
 
 | **Percent** | **Grade** |
