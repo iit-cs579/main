@@ -30,4 +30,4 @@
 | 11/13 | Applications: Cyberbullying             |                             |  |  
 | 11/18 | Ethics              |                               |             |   |    |
 | 11/20 | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project) |
-| 11/25  | **Test 2** |
+| 11/25  | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project)|
