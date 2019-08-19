@@ -11,8 +11,8 @@
 | 9/09  | Community Detection I       |  [lru10.2-3](read/lru-10.pdf) |               |[L05](lec/l05)|
 | 9/11  | Community Detection II      |  [lru10.4](read/lru-10.pdf)   |               |[L06](lec/l06)|
 | 9/16  | Link Prediction             |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
-| 9/18  | Cascades I                  |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
-| 9/23  | Cascades II                 |  [ek19](read/ek-19.pdf)       | [A1](https://github.com/iit-cs579/assignments/tree/master/a1)              |[L09](lec/l09)|
+| 9/18  | Cascades I                  |  [ek16](read/ek-16.pdf)       | [A1](https://github.com/iit-cs579/assignments/tree/master/a1)                |[L08](lec/l08)|
+| 9/23  | Cascades II                 |  [ek19](read/ek-19.pdf)       |             |[L09](lec/l09)|
 | 9/25  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
 | 9/30  |                             |                               |             |              |
 | 10/02 | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  ||[L11](lec/l11)|
@@ -21,13 +21,13 @@
 | 10/14 | Text Classification I       |   [notes](/lec/l14/gd.pdf)                             |               |[L12](lec/l12)|
 | 10/16 | Text Classification II      |  [notes2](/lec/l14/logistic.pdf)                           | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)               |[L13](lec/l13)|
 | 10/21 | Applications: Public Health         |                               |               |              |
-| 10/23 | Applications: Demographic Inference   | |  |[L18](lec/l18/) |
-| 10/28 | Applications: Bot Detection   |                               | | [L19](lec/l19)| 
+| 10/23 | Applications: Demographic Inference   | |  | |
+| 10/28 | Applications: Bot Detection   |                               | |  | 
 | 10/30 | Applications: Bot Detection        |       |     [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)            |[L14](lec/l14)|
-| 11/04 | Applications: Fake News         |    [article](https://science.sciencemag.org/content/359/6380/1146.full)                             |               | [L15](lec/l15)  |
-| 11/06 | Applications: Fake News          |                               |               |  [L16](lec/l16) [L17](lec/l17) |  [A3](https://github.com/iit-cs579/assignments/tree/master/a3)               
-| 11/11 | Applications: Cyberbullying             |   |               |  [L20](lec/l20)       | 
-| 11/13 | Applications: Cyberbullying             |                             |  | [L21](lec/l21) 
-| 11/18 | Ethics              |                               |             |  [L22](lec/l22) | [A4](https://github.com/iit-cs579/assignments/tree/master/a4)   |
+| 11/04 | Applications: Fake News         |    [article](https://science.sciencemag.org/content/359/6380/1146.full)                             |               |  |
+| 11/06 | Applications: Fake News          |                               |               |   |             
+| 11/11 | Applications: Cyberbullying             |   |               |          | 
+| 11/13 | Applications: Cyberbullying             |                             |  |  
+| 11/18 | Ethics              |                               |             |   |    |
 | 11/20 | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project) |
 | 11/25  | **Test 2** |
