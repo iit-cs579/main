@@ -14,12 +14,12 @@
 | 9/18  | Cascades I                  |  [ek16](read/ek-16.pdf)       | [A1](https://github.com/iit-cs579/assignments/tree/master/a1)                |[L08](lec/l08)|
 | 9/23  | Cascades II                 |  [ek19](read/ek-19.pdf)       |             |[L09](lec/l09)|
 | 9/25  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
-| 9/30  |                             |                               |             |              |
-| 10/02 | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  ||[L11](lec/l11)|
-| 10/07 | **Fall Break**              |                               |            [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)    |              |
-| 10/09 | **Test 1**                  |                               |               |              |
-| 10/14 | Text Classification I       |   [notes](/lec/l14/gd.pdf)                             |               |[L12](lec/l12)|
-| 10/16 | Text Classification II      |  [notes2](/lec/l14/logistic.pdf)                           | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)               |[L13](lec/l13)|
+| 9/30  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |             | [L11](lec/l11)             |
+| 10/02 | Text Classification I                 |  [notes](/lec/l14/gd.pdf)                             |               |      [L12](lec/l12)        |
+| 10/07 | **Fall Break**              |                               |              |              |
+| 10/09 | Text Classification II                 | [notes2](/lec/l14/logistic.pdf)                              |    [A2](https://github.com/iit-cs579/assignments/tree/master/a2)             |    [L13](lec/l13)       |
+| 10/14 |  **Test**       |                               |             ||
+| 10/16 |      |                            |         [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)         ||
 | 10/21 | Applications: Public Health         |                               |               |              |
 | 10/23 | Applications: Demographic Inference   | |  | |
 | 10/28 | Applications: Bot Detection   |                               | |  | 
