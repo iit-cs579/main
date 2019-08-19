@@ -19,7 +19,7 @@
 | 10/07 | **Fall Break**              |                               |              |              |
 | 10/09 | Text Classification II                 | [notes2](/lec/l14/logistic.pdf)                              |    [A2](https://github.com/iit-cs579/assignments/tree/master/a2)             |    [L13](lec/l13)       |
 | 10/14 |  **Test**       |                               |             ||
-| 10/16 |      |                            |                ||
+| 10/16 |  Project Discussion    |                            |                ||
 | 10/21 | Applications: Public Health         |                               |               |              |
 | 10/23 | Applications: Demographic Inference   | |  | |
 | 10/28 | Applications: Bot Detection   |                               | |  | 
