@@ -14,20 +14,20 @@
 | 9/18  | Cascades I                  |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
 | 9/23  | Cascades II                 |  [ek19](read/ek-19.pdf)       | [A1](https://github.com/iit-cs579/assignments/tree/master/a1)              |[L09](lec/l09)|
 | 9/25  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
-| 9/30  |                             |                               | Q1            |              |
+| 9/30  |                             |                               |             |              |
 | 10/02 | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  ||[L11](lec/l11)|
 | 10/07 | **Fall Break**              |                               |            [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)    |              |
 | 10/09 | **Test 1**                  |                               |               |              |
-| 10/14 | Demographic Inference       |                               |               |[L12](lec/l12)|
-| 10/16 | Demographic Inference       |                               | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)               |[L13](lec/l13)|
-| 10/21 | More Classification         |                               |               |              |
-| 10/23 | Recommendation Systems I    |[mmds09](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |  |[L18](lec/l18/) |
-| 10/28 | Recommendation Systems II   |                               | | [L19](lec/l19)| 
-| 10/30 | More Classification         | [notes](/lec/l14/gd.pdf)  [notes2](/lec/l14/logistic.pdf)     |     [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)            |[L14](lec/l14)|
-| 11/04 | More Classification         |                               |               | [L15](lec/l15)  |
-| 11/06 | Text Regression             |                               |               |  [L16](lec/l16) [L17](lec/l17) |  [A3](https://github.com/iit-cs579/assignments/tree/master/a3)               
-| 11/11 | Word Clustering             | [16.4](http://nlp.stanford.edu/IR-book/pdf/16flat.pdf) |               |  [L20](lec/l20)       | 
-| 11/13 | Bots/Fake news              | [article](https://science.sciencemag.org/content/359/6380/1146.full)                              |  | [L21](lec/l21) 
-| 11/18 | Ethics              |                               |   Q2          |  [L22](lec/l22) | [A4](https://github.com/iit-cs579/assignments/tree/master/a4)   |
+| 10/14 | Text Classification I       |   [notes](/lec/l14/gd.pdf)                             |               |[L12](lec/l12)|
+| 10/16 | Text Classification II      |  [notes2](/lec/l14/logistic.pdf)                           | [A2](https://github.com/iit-cs579/assignments/tree/master/a2)               |[L13](lec/l13)|
+| 10/21 | Applications: Public Health         |                               |               |              |
+| 10/23 | Applications: Demographic Inference   | |  |[L18](lec/l18/) |
+| 10/28 | Applications: Bot Detection   |                               | | [L19](lec/l19)| 
+| 10/30 | Applications: Bot Detection        |       |     [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)            |[L14](lec/l14)|
+| 11/04 | Applications: Fake News         |    [article](https://science.sciencemag.org/content/359/6380/1146.full)                             |               | [L15](lec/l15)  |
+| 11/06 | Applications: Fake News          |                               |               |  [L16](lec/l16) [L17](lec/l17) |  [A3](https://github.com/iit-cs579/assignments/tree/master/a3)               
+| 11/11 | Applications: Cyberbullying             |   |               |  [L20](lec/l20)       | 
+| 11/13 | Applications: Cyberbullying             |                             |  | [L21](lec/l21) 
+| 11/18 | Ethics              |                               |             |  [L22](lec/l22) | [A4](https://github.com/iit-cs579/assignments/tree/master/a4)   |
 | 11/20 | [Presentation](https://github.com/iit-cs579/assignments/tree/master/project) |
 | 11/25  | **Test 2** |
