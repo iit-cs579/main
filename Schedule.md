@@ -6,7 +6,7 @@
 | 8/21  | Data Collection             |  [r01](read/r-01.pdf)         |               |[L02](lec/l02)|
 | 8/26  | Representing Graphs         |  [ek02](read/ek-02.pdf)       |               |[L03](lec/l03)|
 | 8/28  | Aron Travels | | |
-| 9/02  | Labor Day | | |
+| 9/02  | **Labor Day** | | |
 | 9/04  | Small Worlds                |  [ek20](read/ek-20.pdf)       | [A0](https://github.com/iit-cs579/assignments/tree/master/a0)               |[L04](lec/l04)|
 | 9/09  | Community Detection I       |  [lru10.2-3](read/lru-10.pdf) |               |[L05](lec/l05)|
 | 9/11  | Community Detection II      |  [lru10.4](read/lru-10.pdf)   |               |[L06](lec/l06)|
