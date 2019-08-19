@@ -23,7 +23,7 @@
 | 10/21 | Applications: Public Health         |                               |               |              |
 | 10/23 | Applications: Demographic Inference   | |  | |
 | 10/28 | Applications: Bot Detection   |                               | |  | 
-| 10/30 | Applications: Bot Detection        |       |     [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)            |[L14](lec/l14)|
+| 10/30 | Applications: Bot Detection        |       |     [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)            ||
 | 11/04 | Applications: Fake News         |    [article](https://science.sciencemag.org/content/359/6380/1146.full)                             |               |  |
 | 11/06 | Applications: Fake News          |                               |               |   |             
 | 11/11 | Applications: Cyberbullying             |   |               |          | 
