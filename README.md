@@ -11,7 +11,7 @@
 **Phone:** 312-567-5261  
 **Office Hours:** M/W 2:00 p.m. - 3:00 p.m.  
 **Office:** Stuart Hall 209C  
-**TAs:**  	TBD  
+**TA:**  	Karthik Shivaram (kshivara at hawk), SB002, T/F 2:00 p.m. - 3:00 p.m.
 
 **See the [Schedule](Schedule.md) for a detailed list of readings and due dates.**
 
