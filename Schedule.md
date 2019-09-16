@@ -11,8 +11,8 @@
 | 9/09  | Community Detection I       |  [lru10.2-3](read/lru-10.pdf) |               |[L05](lec/l05)|
 | 9/11  | Community Detection II      |  [lru10.4](read/lru-10.pdf)   |               |[L06](lec/l06)|
 | 9/16  | Link Prediction             |  [lnk2004](read/lnk2004.pdf)  |               |[L07](lec/l07)|
-| 9/18  | Cascades I                  |  [ek16](read/ek-16.pdf)       | [A1](https://github.com/iit-cs579/assignments/tree/master/a1)                |[L08](lec/l08)|
-| 9/23  | Cascades II                 |  [ek19](read/ek-19.pdf)       |             |[L09](lec/l09)|
+| 9/18  | Cascades I                  |  [ek16](read/ek-16.pdf)       |               |[L08](lec/l08)|
+| 9/23  | Cascades II                 |  [ek19](read/ek-19.pdf)       |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)               |[L09](lec/l09)|
 | 9/25  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
 | 9/30  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |  [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)             | [L11](lec/l11)             |
 | 10/02 | Text Classification I                 |  [notes](/lec/l14/gd.pdf)                             |               |      [L12](lec/l12)        |
