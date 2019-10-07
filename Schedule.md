@@ -17,7 +17,8 @@
 | 9/30  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |             | [L11](lec/l11)             |
 | 10/02 | Text Classification I                 |  [notes](/lec/l14/gd.pdf)                             |   [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)              |      [L12](lec/l12)        |
 | 10/07 | **Fall Break**              |                               |              |              |
-| 10/09 | Text Classification II                 | [notes2](/lec/l14/logistic.pdf)                              |    [A2](https://github.com/iit-cs579/assignments/tree/master/a2)             |    [L13](lec/l13)       |
+| 10/09 | Text Classification II                 | [notes2](/lec/l14/logistic.pdf)                              |         |    [L13](lec/l13)       |
+| 10/11 |--                |                               |    [A2](https://github.com/iit-cs579/assignments/tree/master/a2)             |         |
 | 10/14 |  **Test**       |                               |             ||
 | 10/16 |  Project Discussion    |                            |                ||
 | 10/21 | Applications: Public Health         |                               |               |              |
