@@ -15,9 +15,9 @@
 | 9/23  | Cascades II                 |  [ek19](read/ek-19.pdf)       |[A1](https://github.com/iit-cs579/assignments/tree/master/a1)               |[L09](lec/l09)|
 | 9/25  | Sentiment Analysis I        |  [plv2002](read/plv2002.pdf)  |               |[L10](lec/l10)|
 | 9/30  | Sentiment Analysis II       |  [tgd2003](read/tgd2003.pdf)  |             | [L11](lec/l11)             |
-| 10/02 | Text Classification I                 |  [notes](/lec/l14/gd.pdf)                             |   [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)              |      [L12](lec/l12)        |
+| 10/02 | Text Classification I                 |  [notes](/lec/l14/gd.pdf)                             |   [Proposal](https://github.com/iit-cs579/assignments/tree/master/project)              |      [L12](lec/l12) [L13](lec/l13)          |
 | 10/07 | **Fall Break**              |                               |              |              |
-| 10/09 | Text Classification II                 | [notes2](/lec/l14/logistic.pdf)                              |         |    [L13](lec/l13)       |
+| 10/09 | Text Classification II                 | [notes2](/lec/l14/logistic.pdf)                              |         |    [L14](lec/l14) [L15](lec/l15)       |
 | 10/11 |--                |                               |    [A2](https://github.com/iit-cs579/assignments/tree/master/a2)             |         |
 | 10/14 |  **Test**       |                               |             ||
 | 10/16 |  Project Discussion    |                            |                ||
