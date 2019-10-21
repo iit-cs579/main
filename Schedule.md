@@ -21,7 +21,7 @@
 | 10/11 |--                |                               |    [A2](https://github.com/iit-cs579/assignments/tree/master/a2)             |         |
 | 10/14 |  **Test**       |                               |             ||
 | 10/16 |  Project Discussion    |                            |                ||
-| 10/21 | Applications: Public Health         |                               |               |              |
+| 10/21 | Applications: Public Health         |                               |               |              [L16](lec/l16) |
 | 10/23 | Applications: Demographic Inference   | |  | |
 | 10/28 | Applications: Bot Detection   |                               | |  | 
 | 10/30 | Applications: Bot Detection        |       |     [Milestone](https://github.com/iit-cs579/assignments/tree/master/project)            ||
